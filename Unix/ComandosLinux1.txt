@@ -1,0 +1,131 @@
+1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu: crie um diretório
+chamado unix_tests e navegue até ele.
+
+# exercicio 1
+
+mkdir unix_tests
+
+cd unix_tests
+
+2. Crie um arquivo de texto com o nome trybe.txt.
+
+# exercicio 2
+
+touch trybe.txt
+
+3. Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt.
+
+# exercicio 3
+
+cp trybe.txt trybe_backup.txt
+
+4. Renomeie o arquivo trybe.txt para outro nome.
+
+# exercicio 4
+
+mv trybe.txt outro_nome.txt
+
+5. Dentro de unix_tests, crie um novo diretório chamado backup.
+
+# exercicio 5
+
+mkdir backup
+
+6. Mova o arquivo trybe_backup.txt para o diretório backup.
+
+# exercicio 6
+
+mv trybe_backup.txt backup
+
+7. Dentro de unix_tests, crie um novo diretório chamado backup2.
+
+# exercicio 7
+
+mkdir backup2
+
+8. Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2.
+
+# exercicio 8
+
+mv backup/trybe_backup.txt backup2
+
+9. Apague a pasta backup.
+
+# exercicio 9
+
+rmdir backup
+
+10. Renomeie a pasta backup2 para backup.
+
+# exercicio 10
+
+mv backup2 backup
+
+11. Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
+
+# exercicio 11
+
+pwd
+ls -l .
+
+12. Apague o diretório backup.
+
+# exercicio 12
+
+rm -rd backup
+
+13. Limpe o terminal.
+
+# exercicio 13
+
+clear
+
+14. Crie um arquivo texto com o nome skills.txt e adicione os valores Internet, Unix e Bash um em cada linha.
+
+# exercicio 14
+
+touch skills.txt
+echo "Internet" >> skills.txt
+echo "Unix" >> skills.txt
+echo "Bash" >> skills.txt
+
+15. Adicione mais 5 itens a sua lista de skills e depois imprima a lista ordenada no terminal. :carinha_nerd:
+
+# exercicio 15
+
+echo "HTML" >> skills.txt
+echo "CSS" >> skills.txt
+echo "JavaScript" >> skills.txt
+echo "React" >> skills.txt
+echo "SQL" >> skills.txt
+sort < skills.txt
+
+16. Mostre na tela as 5 primeiras skills do arquivo skills.txt.
+
+# exercicio 16
+
+head -n 5 skills.txt
+
+17. Mostre na tela as 4 últimos skills do arquivo skills.txt.
+
+# exercicio 17
+
+tail -n 4 skills.txt
+
+18. Conte quantas linhas tem o arquivo skills.txt.
+
+# exercicio 18
+
+wc -l skills.txt
+
+19. Crie um arquivo chamado top_skills.txt contendo as 3 primeiras skills em ordem alfabética.
+
+# exercicio 19
+
+sort < skills.txt | head -n 3 > top_skills.txt
+
+20. Apague todos os arquivos que terminem em .txt.
+
+# exercicio 20
+
+rm *.txt
