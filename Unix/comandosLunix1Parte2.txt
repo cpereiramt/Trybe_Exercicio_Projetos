@@ -1,0 +1,60 @@
+ mkdir unix-tests
+    2  cd unix-tests
+    3  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+    4  cat countries.txt
+    5  less countries.txt
+    6  grep "Brazil" countries.txt
+    7  grep -i "brazil" countries.txt
+    8  touch phrases.txt
+    9  echo "frase 1 para teste" phrases.txt
+   10  echo "frase 1 para teste" > phrases.txt
+   11  echo "frase 1 para teste" >> phrases.txt
+   12  echo "frase 2 para teste" >> phrases.txt
+   13  echo "frase 3 para teste" >> phrases.txt
+   14  echo "frase 4 para teste" >> phrases.txt
+   15  echo "frase 5 para teste" >> phrases.txt
+   16  echo "frase 6 para teste" >> phrases.txt
+   17  echo "frase 7 para teste" >> phrases.txt
+   18  echo "frase 8 para teste" >> phrases.txt
+   19  echo "frase 9 para teste" >> phrases.txt
+   20  grep -v 1 countries.txt
+   21  grep -v 1 phrases.txt
+   22  grep -v 2 phrases.txt
+   23  grep -v 3 phrases.txt
+   24  wc -l br countries.txt
+   25  grep -ci br countries.txt
+   26  grep -vci br countries.txt
+   27  wc -w phrases.txt
+   28  wc -l phrases.txt
+   29  echo "China" >> phrases.txt
+   30  echo "Uruguai" >> phrases.txt
+   31  less
+   32  less phrases.txt
+   33  touch bunch_of_things.txt < phrases.txt countries.txt
+   34  ls
+   35  ls bunch_of_things.txt
+   36  less bunch_of_things.txt
+   37  bunch_of_things.txt < phrases.txt countries.txt
+   38  echo phrases.txt countries.txt > bunch_of_things.txt
+   39  ls
+   40  less bunch_of_things
+   41  less bunch_of_things.txt
+   42*  bunch_of_things.txt
+   43  ls
+   44  less bunch_of_things.txt
+   45  phrases.txt countries.txt > bunch_of_things.txt
+   46  cat phrases.txt countries.txt > bunch_of_things.txt
+   47  less bunch_of_things.txt
+   48  sort bunc_of_things.txt
+   49  sort bunch_of_things.txt
+   50  less bunch_of_things.txt
+   51  touch emptly.tbt emptly.pdf
+   52  ls
+   53  ls /unix-tests
+   54  ls unix-tests
+   55  ls unix-tests/
+   56  ls
+   57  ls *.txt
+   58  ls *.tbt
+   59  man ls
+   60  history > comandosUnix1Parte2.txt
