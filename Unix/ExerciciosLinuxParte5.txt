@@ -1,23 +1,28 @@
-    1  df
-    2  ls -l
-    3  gzip countries.txt
-    4  ls -l
-    5  zcat countries.txt.gz
-    6  gunzip countries.txt.gz
-    7  ls
-    8  gzip *.txt
-    9  rm comandosUnix1Parte2
-   10  rm comandosUnix1Parte2.txt
-   11  ls
-   12  file emptly.pdf
-   13  file countries.txt.gz
-   14  gunzip *.txt.gz
-   15  ls
-   16  file phrases.txt
-   17  echo "Teste de inserção de acentuação " >> phrases.txt
-   18  file phrases.txt
-   19  diff bunch_of_things.txt countries.txt 
-   20  find /home -iname *rc
-   21  find /home -size 5M
-   22  find /home -size 2M
-   23  history > ExerciciosLinuxParte5.txt
+     #1
+     df
+     #3
+     ls -l
+     gzip countries.txt
+     ls -l
+     zcat countries.txt.gz
+     #4
+     gunzip countries.txt.gz
+     ls
+     gzip *.txt
+     ls
+     gunzip *.txt.gz
+     #5
+     file emptly.pdf
+     file countries.txt.gz
+     file phrases.txt
+     echo "Teste de inserção de acentuação " >> phrases.txt
+     file phrases.txt
+     #6
+     diff bunch_of_things.txt countries.txt 
+     #7
+     find /home -iname *rc
+     #8
+     find /home -size 5M
+     find /home -size 2M
+     #9
+     !! 
