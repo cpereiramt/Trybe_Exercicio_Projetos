@@ -1,5 +1,8 @@
-    1  printenv
-    2  echo $USER
-    3  echo $HOME
-    4  echo $HOST
-    5  history > ExerciciosLinuxParte6.txt
+    #1  
+    printenv
+    #2
+    echo $USER
+    echo $HOME
+    echo $HOST
+    #4
+    exit
