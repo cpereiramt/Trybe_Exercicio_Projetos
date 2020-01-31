@@ -1,0 +1,20 @@
+    1  ps
+    2  sleep 5 &
+    3  sleep 300 &
+    4  kill %1
+    5  sleep 300 &
+    6  kill %1
+    7  sleep 30000
+    8  bg %1
+    9  sleep 300 &
+   10  sleep 200
+   11  bg
+   12  sleep 100
+   13  bg
+   14  jobs
+   15  fg %2
+   16  fg %4
+   17  jobs
+   18  kill %1
+   19  kill %3
+   20  history > ExerciciosLinuxParte4.txt
