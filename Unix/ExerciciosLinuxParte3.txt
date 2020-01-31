@@ -1,0 +1,7 @@
+    1  chmod 666 bunch_of_things.txt
+    2  ls -l bunch_of_things.txt
+    3  chmod 444 bunch_of_things.txt
+    4  ls -l bunch_of_things.txt
+    5  chmod 644 bunch_of_things.txt
+    6  ls -l bunch_of_things.txt
+    7  history > ExerciciosLinuxParte3.txt
