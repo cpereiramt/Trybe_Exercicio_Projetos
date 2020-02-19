@@ -33,24 +33,24 @@ nav a{
     text-justify:distribute-all-lines;
 }
 
-#esquerda{
+.esquerda{
  float: left;
  width: 58%;
 }
 
 
-#direita{    
+.direita{    
     float: right;
     width: 38%;
     border-left: 7px dashed rgb(159, 167, 167);
    }
 
-#direita p{
+.direita p{
 padding-left: 10%;
 
 
 }   
-#direita iframe{
+.direita iframe{
 
  width: 90%;
  padding-left: 10%;
@@ -62,11 +62,6 @@ section{
      margin-bottom: 10%;
 
 
-
-}
-
-#footer{
-width: auto;
 
 }
 
