@@ -1,4 +1,4 @@
-
+console.log("Exercicio 01 =======================================================================");
 a = 10;
 b = 6;
 
@@ -18,3 +18,18 @@ console.log("O valor da divisão é " + divisao);
 
 let modulo = a % b ;
 console.log("O resto da divisão é " + modulo);
+
+console.log("Exercicio 02 =======================================================================");
+
+let numx =200;
+let numy =150;
+
+
+if(numx > numy){
+
+console.log("O maior numero é o da variavel 'numx' " + numx)
+}
+else{
+
+console.log("O maior numero é o da variavel 'numy' " + numy)
+}
