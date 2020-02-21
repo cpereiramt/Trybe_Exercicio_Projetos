@@ -75,3 +75,12 @@ console.log("Negative");
 console.log("Zero")
 
 }
+
+
+let booleanaA = false; 
+let booleanaB = true;
+let booleanaC = false;
+
+let resultado = (booleanaA && booleanaB || booleanaC)
+
+console.log("resultado " + resultado);
