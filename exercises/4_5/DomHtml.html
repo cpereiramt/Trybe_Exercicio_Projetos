@@ -61,8 +61,14 @@
          //exercicio 04 parte 02 
          let h1dofilhodofilho = filhodofilho.firstElementChild;
          console.log(h1dofilhodofilho.parentNode.parentNode.parentNode.childNodes[5], " <== Gambiara detect !");
+        
+         //Praticando removechild 
+         elemento1Pai.removeChild(document.querySelector("#terceiroFilho")) ;
+         elemento1Pai.removeChild(document.querySelector("#primeiroFilho")) ;
+         elemento1Pai.removeChild(document.querySelector("#quartoEUltimoFilho")) ;
+         elemento1.removeChild(document.querySelector("#segundoEUltimoFilhoDoFilho")) ;
+         console.log(elemento1Pai);      
 
-                  
         </script>
         </div>
       </div>
