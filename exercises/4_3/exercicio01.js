@@ -13,4 +13,11 @@ let info = {
    info.recorrente="sim";
    console.log(info)
 
+   //Exercicio numero 03
    
+   for(i in info){
+    console.log(i);
+
+   }
+
+
