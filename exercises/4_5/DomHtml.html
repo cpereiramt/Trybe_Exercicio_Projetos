@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="paiDoPai">
+        <div id="pai">
+          <div id="primeiroFilho"></div>
+          <div id="elementoOndeVoceEsta">
+            <div id="primeiroFilhoDoFilho"></div>
+            <div id="segundoEUltimoFilhoDoFilho"></div>
+          </div>
+          Atenção!
+          <div id="terceiroFilho"></div>
+          <div id="quartoEUltimoFilho"></div>
+          <script> 
+          //exercicio 01
+          let elemento1 = document.getElementById("elementoOndeVoceEsta")
+          console.log(elemento1);
+          
+          //exercicio 02 
+         let elemento1Pai = elemento1.parentNode;
+         console.log(elemento1Pai)
+         elemento1Pai.style.color ="red";
+
+         //exercicio 03
+         elemento1.childNodes[1].innerHTML="TESTE" 
+         console.log(elemento1.childNodes[1]);
+         
+         //exercicio 04
+         console.log(elemento1Pai.firstElementChild);
+
+         //exercicio 05 
+         console.log(elemento1.previousElementSibling);
+
+         //exercicio 06
+         console.log(elemento1.parentElement.innerText);
+
+          
+        </script>
+        </div>
+      </div>
+    
+</body>
+</html>
