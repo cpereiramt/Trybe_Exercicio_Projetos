@@ -20,4 +20,21 @@ let info = {
 
    }
 
+   //Exercicio numero 04
 
+   for(i in info){
+   console.log(info[i]);
+
+   }
+
+  //Exercicio numero 05 
+
+    info = {
+    personagem: "Tio Patinhas",
+    origem: "Christmas on Bear Mountain, Dell’s Four Color Comics #178",
+    nota: "O último MacPatinhas",
+    recorrente:"sim"
+  };
+
+  
+  console.log(info);
