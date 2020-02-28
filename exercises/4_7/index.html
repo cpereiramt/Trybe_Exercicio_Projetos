@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+   
 </head>
 <body>
     <p>selecione a cor de fundo do site</p>
-    <select id="cores" > 
+    <select id="coresF" > 
      <option value="green">green</option>
      <option value="blue">blue</option>
      <option value="white">white</option>
@@ -16,7 +17,7 @@
     </select>
 
     <p>selecione a cor do texto do site</p>
-    <select id="cores" > 
+    <select id="coresT" > 
      <option value="green">green</option>
      <option value="blue">blue</option>
      <option value="white">white</option>
@@ -47,7 +48,7 @@
      <option value="'Arial Black', Gadget, sans-serif">"Arial Black", Gadget, sans-serif</option>
  
     </select>
-
+   
     
    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et pulvinar quam, sed hendrerit dolor. Maecenas 
     imperdiet blandit nibh in ornare. Pellentesque sagittis suscipit dignissim. Sed mauris ante, egestas eu enim sed, 
@@ -111,5 +112,26 @@ Donec porttitor ex non ornare rutrum. In vel congue nulla. Cras id felis ut dolo
  erat malesuada sed. Aenean volutpat ex ante, a scelerisque nulla iaculis non. Vivamus condimentum ipsum ac eros dictum commodo. Morbi
   a tortor massa.
 </p>
+
+<script>
+
+let backgroundColor = document.getElementById("coresF");
+backgroundColor.addEventListener("click", function(event){
+    mudaCorFundo(event);
+})
+
+let body = document.querySelector("body");
+function mudaCorFundo(event) {
+
+
+body.style.backgroundColor=event.target.value    
+localStorage.setItem("backgroundColor",event.target.value);
+}
+
+
+
+window.onload = body.style.backgroundColor = localStorage.getItem("backgroundColor");
+window.onload = backgroundColor.value = localStorage.getItem("backgroundColor");
+</script>
 </body>
 </html>
