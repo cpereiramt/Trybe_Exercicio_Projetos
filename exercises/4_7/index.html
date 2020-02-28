@@ -28,18 +28,18 @@
 
     <p>selecione a tamanho do texto do site</p>
     <select id="tamanho" > 
+     <option value="0.80em">0.80em</option>
+     <option value="0.90em">0.90em</option>
+     <option value="0.95em">0.95em</option>
+     <option value="1em">1em</option>
      <option value="1.5em">1.5em</option>
-     <option value="2em">2em</option>
-     <option value="2.5em">2.5em</option>
-     <option value="3em">3em</option>
-     <option value="3.5em">3.5em</option>
     </select>
 
     <p>escolha o espaçamento do texto do site</p>
     <select id="espacamento" > 
-     <option value="12px">12px</option>
-     <option value="20px">20px</option>
+     <option value="20px">12px</option>
      <option value="30px">30px</option>
+     <option value="35px">35px</option>
     </select>
 
     <p>escolha o tipo  do texto do site</p>
@@ -204,8 +204,40 @@ localStorage.setItem("fontFamily",event.target.value);
 window.onload = body.style.backgroundColor = localStorage.getItem("backgroundColor");
 window.onload = backgroundColor.value = localStorage.getItem("backgroundColor");
 
-window.onload = fontColor[2].style.Color= localStorage.getItem("fontColor");
-window.onload = fontColor.value = localStorage.getItem("fontColor");
+window.onload = function () {
+  for (i= 0;i < font.length;i++ ) {
+     
+     font[i].style.color=localStorage.getItem("fontColor");  
+     console.log(font[i].style.color); 
+     fontColor.value = localStorage.getItem("fontColor");
+ 
+}
+for (i= 0;i < fontT.length;i++ ) {
+     
+    fontT[i].style.fontSize = localStorage.getItem("fontT");
+  
+     fontSize.value = localStorage.getItem("fontT");
+ 
+}
+
+for (i= 0;i < fontEspT.length;i++ ) {
+     
+  fontEspT[i].style.lineHeight = localStorage.getItem("fontEsp");
+   
+  fontEsp.value = localStorage.getItem("fontEsp");
+  
+ }
+  
+ for (i= 0;i < fontFamilyT.length;i++ ) {
+     
+  fontFamilyT[i].style.fontFamily = localStorage.getItem("fontFamily");
+      
+  fontFamily.value = localStorage.getItem("fontFamily");
+     
+    }
+ 
+  
+}
 </script>
 </body>
 </html>
