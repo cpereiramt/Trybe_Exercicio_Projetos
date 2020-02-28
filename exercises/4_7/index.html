@@ -37,17 +37,21 @@
 
     <p>escolha o espaçamento do texto do site</p>
     <select id="espacamento" > 
-     <option value="1px">1px</option>
-     <option value="2px">2px</option>
-     <option value="3px">3px</option>
+     <option value="12px">12px</option>
+     <option value="20px">20px</option>
+     <option value="30px">30px</option>
     </select>
 
     <p>escolha o tipo  do texto do site</p>
-    <select id="tipo do texto" > 
+    <select id="tipodotexto" > 
      <option value="Arial, Helvetica, sans-serif">Arial, Helvetica, sans-serif</option>
      <option value="'Arial Black', Gadget, sans-serif">"Arial Black", Gadget, sans-serif</option>
- 
-    </select>
+     <option value="'Agency FB">Agency FB</option>
+     <option value="'Times New Roman">Times New Roman</option>
+     <option value="'Script">Script</option>
+     <option value="'Roman">Roman</option>
+     <option value="'Monospace">Monospace</option>
+     </select>
    
     
    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et pulvinar quam, sed hendrerit dolor. Maecenas 
@@ -128,10 +132,80 @@ body.style.backgroundColor=event.target.value
 localStorage.setItem("backgroundColor",event.target.value);
 }
 
+/////////////////////////////////////////////
+let fontColor = document.getElementById("coresT");
+fontColor.addEventListener("click", function(event){
+    mudaCorTexto(event);
+})
+
+let font = document.querySelectorAll("p");
+function mudaCorTexto(event) {
+
+for (i= 0;i < font.length;i++ ) {
+     
+      font[i].style.color=event.target.value    
+  
+}
+localStorage.setItem("fontColor",event.target.value);
+}
+/////////////////////////////////////////////////////////
+let fontSize = document.getElementById("tamanho");
+fontSize.addEventListener("click", function(event){
+    mudaTamTexto(event);
+})
+
+let fontT = document.querySelectorAll("p");
+function mudaTamTexto(event) {
+
+for (i= 0;i < font.length;i++ ) {
+     
+      fontT[i].style.fontSize=event.target.value    
+  
+}
+localStorage.setItem("fontT",event.target.value);
+}
+//////////////////////////////////////////////////
+let fontEsp= document.getElementById("espacamento");
+fontEsp.addEventListener("click", function(event){
+    mudaEspTexto(event);
+})
+
+let fontEspT = document.querySelectorAll("p");
+function mudaEspTexto(event) {
+
+for (i= 0;i < font.length;i++ ) {
+     
+  fontEspT[i].style.lineHeight=event.target.value    
+  
+}
+localStorage.setItem("fontEsp",event.target.value);
+}
+
+
+/////////////////////////////////////////////////////
+let fontFamily = document.getElementById("tipodotexto");
+fontFamily.addEventListener("click", function(event){
+    mudaFamTexto(event);
+})
+
+let fontFamilyT = document.querySelectorAll("p");
+function mudaFamTexto(event) {
+
+for (i= 0;i < font.length;i++ ) {
+     
+      fontT[i].style.fontFamily=event.target.value    
+  
+}
+localStorage.setItem("fontFamily",event.target.value);
+}
+
 
 
 window.onload = body.style.backgroundColor = localStorage.getItem("backgroundColor");
 window.onload = backgroundColor.value = localStorage.getItem("backgroundColor");
+
+window.onload = fontColor[2].style.Color= localStorage.getItem("fontColor");
+window.onload = fontColor.value = localStorage.getItem("fontColor");
 </script>
 </body>
 </html>
