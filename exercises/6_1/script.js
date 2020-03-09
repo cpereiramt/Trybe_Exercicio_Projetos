@@ -38,4 +38,11 @@ window.onload = preencheEstados();
 //Exercicio 02
 
 
-
+//Exercicio 03 
+window.onsubmit = function (event) {
+    event.preventDefault();
+    console.log('não carregou!');
+    let form = document.getElementsByTagName('form');
+    console.log(form[0]);
+    form[0].appendChild(document.createElement('div')).innerHTML = inputEmail.value;
+}
