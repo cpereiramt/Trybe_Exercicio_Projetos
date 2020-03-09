@@ -26,10 +26,15 @@
      <label >casa</label>   
     </fieldset>
     <fieldset>
-     <textarea name="resumo" id="resumo" cols="30" rows="10" maxlength="1000">
+     <textarea required name="resumo" id="resumo" cols="30" rows="10" maxlength="1000">
    
      </textarea>
-
+     <label for="cargo">Cargo</label>
+     <input type="text" name="cargo" id="cargo">
+     <label for="descricao-cargo">Descrição </label>
+     <input required type="text" name="descricao-cargo" maxlength="500" size="30">
+     <label for="dataInicio"> Data inicial</label>
+     <input type="text" name="dataInicio" id="dataInicio" size="10">
     </fieldset>
     </form>
     <script src="script.js"></script>
