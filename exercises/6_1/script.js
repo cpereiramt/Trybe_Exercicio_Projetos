@@ -45,4 +45,5 @@ window.onsubmit = function (event) {
     let form = document.getElementsByTagName('form');
     console.log(form[0]);
     form[0].appendChild(document.createElement('div')).innerHTML = inputEmail.value;
+    
 }
