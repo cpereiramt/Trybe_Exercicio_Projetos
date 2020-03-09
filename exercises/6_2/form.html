@@ -2,22 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/DatePickerX.min.css">
+    
+    <script src="js/DatePickerX.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        <title>Document</title>
 </head>
 <body>
-    <form method="get">        
-    <fieldset>
-        <label for="">Nome</label>
+    <form method="get" class='container'>        
+    <fieldset class='form-group'>
+        <label for="nome">Nome</label>
      <input type="text" required name="nome" maxlength="40"> 
-     <label for="">Email</label>
+     <label for="email">Email</label>
      <input type="text" name="email" maxlength="50" required id="email">
-     <label for="">Cpf</label>
+     <label for="cpf">Cpf</label>
      <input type="text" name="cpf" maxlength="11">
-     <label for="">Endereço</label>
+
+     <label for="endereco">Endereço</label>
      <input type="text" name="endereco" maxlength="200">
-     <label for="">Cidade</label>
-     <input type="text" name="endereco" maxlength="28">
+     <label for="cidade">Cidade</label>
+     <input type="text" name="cidade" maxlength="28">
      <select name="estados" id="estados">         
      </select>
      <input type="radio"  name="tipo" value="Apartamento">
@@ -25,7 +34,7 @@
      <input type="radio" name="tipo" value="casa">
      <label >casa</label>   
     </fieldset>
-    <fieldset>
+    <fieldset class='form-group'>
      <textarea required name="resumo" id="resumo" cols="30" rows="10" maxlength="1000">
    
      </textarea>
@@ -35,9 +44,13 @@
      <input required type="text" name="descricao-cargo" maxlength="500" size="30">
      <label for="dataInicio"> Data inicial</label>
      <input type="text" name="dataInicio" id="dataInicio" size="10">
-    </fieldset>
-    <input type="submit">
-    <input type="reset">
+     <script>
+     document.getElementById('dataInicio').DatePickerX.init();
+
+     </script>
+    </fieldset >
+    <input type="submit" class="btn btn-outline-primary btn-sm btn-block">
+    <input type="reset" class="btn btn-outline-danger btn-sm btn-block">
     </form>   
     <script src="script.js"></script>
 </body>
