@@ -188,4 +188,8 @@ html {
       margin-bottom: 50px;
       padding-bottom: 30px;
     }
+    footer p {
+      font-size: 20px;
+      text-align: justify;
+    }
   }
