@@ -176,6 +176,9 @@ html {
       initial-letter: 20;
       font-size: 25px;
       line-height: 25px;
+      margin-bottom: 30px;
+      padding-bottom: 19px;
+      border-bottom: 1px dashed red;
       
     }
     .main-content {
