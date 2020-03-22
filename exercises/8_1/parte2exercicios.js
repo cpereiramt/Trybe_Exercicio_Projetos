@@ -13,3 +13,21 @@
  
 console.log(fatorial(4));
 
+//Exercicio 02
+
+const maiorPalavra = (text) =>
+{  
+ let palavras = '';
+palavras = text.split(' ');
+let palavra_tamanho = palavras[0].length;
+let maiorpalavra = palavras[0];
+for(i = 0; i < palavras.length; i++) 
+{
+    if (palavra_tamanho < palavras[i].length){
+        palavra_tamanho = palavras[i].length;
+        maiorpalavra = palavras[i];
+    }
+}
+return maiorpalavra;
+}
+console.log(maiorPalavra('inserçãodsfd de texto parafgsdddffff teste !'))
