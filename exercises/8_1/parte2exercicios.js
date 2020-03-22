@@ -1,6 +1,6 @@
 //Exercicio 01 
-
- function fatorial(n) {
+//arrow functions 
+ const fatorial = (n) => {
     if (n == 0) {
         return 1;
     }
@@ -12,3 +12,4 @@
 }
  
 console.log(fatorial(4));
+
