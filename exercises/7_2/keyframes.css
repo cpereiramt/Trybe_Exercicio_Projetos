@@ -1,0 +1,36 @@
+
+@keyframes someparagrafo {
+  
+  from {
+    opacity: 1;
+  }
+  
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes moveparagrafo {
+  
+    from {
+     margin-left: 1%;    
+    }
+    
+    to {
+     margin-left: 80%;
+    }
+  }
+
+.paragrafo {
+  animation-name: someparagrafo;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}  
+
+
+.paragrafo2 {
+    animation-name: moveparagrafo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+  }  
+  
