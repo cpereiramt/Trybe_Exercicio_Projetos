@@ -30,4 +30,16 @@ for(i = 0; i < palavras.length; i++)
 }
 return maiorpalavra;
 }
-console.log(maiorPalavra('inserçãodsfd de texto parafgsdddffff teste !'))
+console.log(maiorPalavra('inserçãodsfd de texto parafgsdddffff teste !'));
+
+//exercicio 3
+const botaovisitas = document.querySelector('#visitas') ;
+let clickCount = 0 ;
+botaovisitas.addEventListener('click', function () {
+    clickCount += 1;
+  console.log(`visitas computadas ${clickCount}`)
+  const result =  document.getElementById('resultado');
+ 
+  result.innerHTML = document.createElement('p').innerText = `visitas computadas ${clickCount}`;
+});
+ 
