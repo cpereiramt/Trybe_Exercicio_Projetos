@@ -33,7 +33,7 @@ return maiorpalavra;
 console.log(maiorPalavra('inserçãodsfd de texto parafgsdddffff teste !'));
 
 //exercicio 3
-const botaovisitas = document.querySelector('#visitas') ;
+  const botaovisitas = document.getElementById('visitas') ;
 let clickCount = 0 ;
 botaovisitas.addEventListener('click', function () {
     clickCount += 1;
@@ -41,5 +41,24 @@ botaovisitas.addEventListener('click', function () {
   const result =  document.getElementById('resultado');
  
   result.innerHTML = document.createElement('p').innerText = `visitas computadas ${clickCount}`;
-});
+}); 
  
+//exercicio 4 
+const skills = ['javascript','html','css','shell','ui/ux'];
+const replaceString = (text) => {
+let result_text = `Tryber ${text} aqui
+tudo bem ?`;
+return result_text;
+}
+
+
+const montarPhrases = (text2) => {
+  let final_text = `${text2} 
+  minhas cinco habilidades são :
+  ${skills.sort()}`;
+  return final_text;
+};
+
+console.log( montarPhrases(replaceString('Clayton Pereira')));
+//console.log(skills);
+
