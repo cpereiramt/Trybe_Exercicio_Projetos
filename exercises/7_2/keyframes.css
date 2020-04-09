@@ -1,0 +1,46 @@
+
+@keyframes someparagrafo {
+  
+  from {
+    opacity: 1;
+    color: black; 
+    
+  }
+
+  60% {
+    font-size: 90px;
+    color: blue;
+  }
+  
+  to {
+    opacity: 0;
+    font-size: 10px;
+    color: crimson;
+  }
+}
+
+@keyframes moveparagrafo {
+  
+    from {
+     margin-left: 1%; 
+      
+    }
+    
+    to {
+     margin-left: 80%;
+    }
+  }
+
+.paragrafo {
+  animation-name: someparagrafo;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}    
+
+
+.paragrafo2 {
+    animation-name: moveparagrafo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+  }  
+  
