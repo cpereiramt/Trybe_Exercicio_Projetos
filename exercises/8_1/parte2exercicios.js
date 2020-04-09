@@ -35,7 +35,7 @@ console.log(maiorPalavra('inserçãodsfd de texto parafgsdddffff teste !'));
 //exercicio 3
   const botaovisitas = document.getElementById('visitas') ;
 let clickCount = 0 ;
-botaovisitas.addEventListener('click', function () {
+botaovisitas.addEventListener('click', () => {
     clickCount += 1;
   console.log(`visitas computadas ${clickCount}`)
   const result =  document.getElementById('resultado');
