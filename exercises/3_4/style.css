@@ -1,0 +1,72 @@
+body{
+
+margin: 3%;
+}
+
+body img{
+width: 30%;
+padding-bottom: 1%;
+border: 15px ridge rgb(209, 238, 238);
+margin-bottom: 5%;
+
+}
+header h1{
+ padding-bottom: 2%;
+ text-align: center;
+
+}
+
+nav{
+padding-bottom: 5%;
+background-color: rgb(209, 238, 238);
+margin-bottom: 2%;
+
+}
+nav a{
+
+    text-align: center;
+    padding-right: 5%;
+    padding-left: 1%;
+    font-weight: 900;
+    font-size: 170%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-justify:distribute-all-lines;
+}
+
+.esquerda{
+ float: left;
+ width: 58%;
+}
+
+
+.direita{    
+    float: right;
+    width: 38%;
+    border-left: 7px dashed rgb(159, 167, 167);
+   }
+
+.direita p{
+padding-left: 10%;
+
+
+}
+   
+.direita iframe{
+
+ width: 90%;
+ padding-left: 10%;
+
+}
+section{
+    border-top: 7px dashed rgb(159, 167, 167);
+     padding-top: 2%;
+     margin-bottom: 10%;
+
+
+
+}
+
+footer p{
+text-align: center;
+
+}
