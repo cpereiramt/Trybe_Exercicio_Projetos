@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <style type="text/css">
+    
+    .para{
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    }
+
+
+    </style>
+    <h2 id="page-title">Título</h2>
+    <!-- Exercicio 01 parte 02 getelementbyclass --> 
+    <p class="para" id="paragraph">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p class="para" id="second-paragraph">Segundo parágrafo!</p>
+
+    <script>
+      var paragraph = document.getElementById("paragraph");
+      paragraph.style.color = "red";
+      //Exercicio 01 parte 2
+      let titulo = document.getElementById("page-title");
+      titulo.innerHTML="Matrix";
+       //Exercicio 02 parte 2
+       let paragrafo2 = document.getElementById("second-paragraph");
+    paragrafo2.innerHTML= "testando a inserção de texto";
+    paragrafo2.style.border="2px dashed blue";
+        //Exercicio 03 parte 2
+        let subtitulo = document.getElementById("subtitle");
+        subtitulo.innerHTML="Filme de ficção cientifica e aventura !";
+
+
+        // Exercicio 02 parte 02 getelementbyclass 
+        let paragrafos = document.getElementsByClassName("para");
+        console.log(paragrafos);
+
+         // Exercicio 03 parte 02 getelementbyclass 
+         paragrafos[1].style.color="pink";
+         
+        // Exercicio 04 parte 02 getelementbyclass 
+         console.log(document.getElementsByTagName("h4"))
+
+
+    </script>
+  </body>
+</html>
