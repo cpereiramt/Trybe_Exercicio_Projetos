@@ -23,8 +23,7 @@ const lesson1 = {
 //exercicio 1
   const adicionaTurno = (object,key,value) => {
     object[key] = value ;
-    console.log(object);     
-
+    console.log(object);
   }
  
   //exercicio 2
