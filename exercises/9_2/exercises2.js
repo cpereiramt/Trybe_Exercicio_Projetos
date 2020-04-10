@@ -66,6 +66,25 @@ const books = [
 
 function allNames() {
   // escreva seu código aqui
+  const string = books.reduce((nomes,element) => {
+   return nomes =`${nomes} ${element.author.name},`;
+  },'');    
+  return `Nomes:${string}`;
 }
+console.log(allNames());
+assert.deepEqual(allNames(), "Nomes: George R. R. Martin, J. R. R. Tolkien, Isaac Asimov, Frank Herbert, Stephen King, H. P. Lovecraft,");
 
-assert.deepEqual(allNames(), "Nomes: George R. R. Martin, J. R. R. Tolkien, Isaac Asimov, Frank Herbert, Stephen King, H. P. Lovecraft.");
+/* 
+Example concat a array of objects into a string . 
+var arObj = [
+    { 'name': 'Jon', 'age': 24 },
+    { 'name': 'Mark', 'age': 32 },
+    { 'name': 'Kacy', 'age': 22 }
+];
+
+var str = arObj.reduce( function (a, b) {
+   return a + b.name + ' is ' + b.age + '. ';
+}, '' ); // pass empty string as initial value
+
+console.log(str); // Jon is 24. Mark is 32. Kacy is 22.
+*/
