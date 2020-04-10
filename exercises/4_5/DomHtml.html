@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="paiDoPai">
+        <div id="pai">
+          <div id="primeiroFilho"></div>
+          <div id="elementoOndeVoceEsta">
+            <div id="primeiroFilhoDoFilho"></div>
+            <div id="segundoEUltimoFilhoDoFilho"></div>
+          </div>
+          Atenção!
+          <div id="terceiroFilho"></div>
+          <div id="quartoEUltimoFilho"></div>
+          <script> 
+          //exercicio 01 parte 01
+          let elemento1 = document.getElementById("elementoOndeVoceEsta")
+          console.log(elemento1);
+          
+          //exercicio 02 parte 01
+         let elemento1Pai = elemento1.parentNode;
+         console.log(elemento1Pai)
+         elemento1Pai.style.color ="red";
+
+         //exercicio 03 parte 01
+         elemento1.childNodes[1].innerHTML="TESTE" 
+         console.log(elemento1.childNodes[1]);
+         
+         //exercicio 04 parte 01
+         console.log(elemento1Pai.firstElementChild);
+
+         //exercicio 05 parte 01
+         console.log(elemento1.previousElementSibling);
+
+         //exercicio 06 parte 01
+         console.log(elemento1.parentElement.innerText);
+
+         //exercicio 07  parte 01
+         console.log(elemento1.nextElementSibling);
+
+         //exercicio 08 parte 01
+         console.log(elemento1Pai.childNodes[5])
+ 
+         //exercicio 01 parte 02
+         
+         console.log(elemento1Pai);
+         elemento1Pai.appendChild(document.createElement("div"));
+
+         //exercicio 02 parte 02
+         elemento1.appendChild(document.createElement("p"));
+
+         //exercicio 03 parte 02
+         let filhodofilho = elemento1.firstElementChild;
+         filhodofilho.appendChild(document.createElement("h1"));
+         console.log(filhodofilho);
+
+         //exercicio 04 parte 02 
+         let h1dofilhodofilho = filhodofilho.firstElementChild;
+         console.log(h1dofilhodofilho.parentNode.parentNode.parentNode.childNodes[5], " <== Gambiara detect !");
+        
+         //Praticando removechild 
+         elemento1Pai.removeChild(document.querySelector("#terceiroFilho")) ;
+         elemento1Pai.removeChild(document.querySelector("#primeiroFilho")) ;
+         elemento1Pai.removeChild(document.querySelector("#quartoEUltimoFilho")) ;
+         elemento1.removeChild(document.querySelector("#segundoEUltimoFilhoDoFilho")) ;
+         console.log(elemento1Pai);      
+
+        </script>
+        </div>
+      </div>
+    
+</body>
+</html>

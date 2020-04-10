@@ -1,0 +1,681 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR" class="exame">
+<head>
+	<meta name="google-site-verification" content="ZRbLdF6qDCI0177vrn-cF5DMipS9avQBd-8x_thwfl0" />
+<meta name="msvalidate.01" content="C645D529E7A5AD4759D8FFF5F2010C3A" />
+<link rel="dns-prefetch" href="//ads.rubiconproject.com">
+<link rel="dns-prefetch" href="//optimized-by.rubiconproject.com">
+<link rel="dns-prefetch" href="//www.googletagservices.com">
+<link rel="dns-prefetch" href="//partner.googleadservices.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//www.assine.abril.com.br">
+<link rel="dns-prefetch" href="//r-login.wordpress.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//px.moatads.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//ib.adnxs.com">
+<link rel="dns-prefetch" href="//static.criteo.net">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1,user-scalable=no,width=device-width">
+<title>Desenvolvedores: Temporada de caça aos devs | EXAME</title>
+<meta name="description" content="O Brasil precisa de desenvolvedores para competir num mundo cada vez mais digital. A escassez faz com que eles escolham onde trabalhar e quanto ganhar">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="EXAME">
+<meta property="og:url" content="https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/">
+<meta property="og:title" content="Temporada de caça aos devs">
+<meta property="og:description" content="O Brasil precisa de desenvolvedores para competir num mundo cada vez mais digital. A escassez faz com que eles escolham onde trabalhar e quanto ganhar">
+<meta property="og:image" content="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg?quality=70&strip=info&w=680&h=453&crop=1">
+<meta property="bt:id" content="3768283">
+<meta property="bt:pubDate" content="2020-02-27T05:30:38-0300">
+<meta property="bt:modDate" content="2020-02-27T18:38:29-0300">
+<meta property="bt:breakingnews" content="false">
+<meta property="bt:keywords" content="Programadores, Serviços de informática, Software, Tecnologia da informação">
+<meta property="bt:category" content="REVISTA EXAME">
+<meta name="twitter:site" content="@exame">
+<meta name="twitter:title" content="Temporada de caça aos devs">
+<meta name="twitter:description" content="O Brasil precisa de desenvolvedores para competir num mundo cada vez mais digital. A escassez faz com que eles escolham onde trabalhar e quanto ganhar">
+<meta name="twitter:image" content="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg?quality=70&strip=info&w=680&h=453&crop=1">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="fb:admins" content="100000224297985">
+<meta property="fb:pages" content="100000224297985">
+<meta property="fb:app_id" content="140855325959333">
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//cdn.tinypass.com' />
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//id.abril.com.br' />
+<link rel='dns-prefetch' href='//static.chartbeat.com' />
+<link rel='dns-prefetch' href='//r-login.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//abrilexame.wordpress.com' />
+<link href="https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/" rel="canonical" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TVBN74');</script>
+<script type="text/javascript">/* <![CDATA[ */var googleMarkup = {"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/exame.abril.com.br\/revista-exame\/temporada-de-caca-aos-devs\/"},"headline":"Temporada de ca\u00e7a aos devs","image":{"@type":"ImageObject","url":"https:\/\/abrilexame.files.wordpress.com\/2020\/02\/mat-de-cp-1-1.jpg?quality=70&strip=info&w=1024","height":683,"width":1024},"datePublished":"2020-02-27T05:30:38-0300","dateModified":"2020-02-27T18:38:29-0300","author":{"@type":"Person","name":"Carolina Ingizza, Denyse Godoy, Fabiane Stefano, Lu\u00edsa Granato e Rodrigo Loureiro"},"publisher":{"@type":"Organization","name":"EXAME","logo":{"@type":"ImageObject","url":"https:\/\/abrilexame.files.wordpress.com\/2017\/07\/exame_redes.png?w=258","width":258,"height":60}},"description":"O Brasil precisa de desenvolvedores para competir num mundo cada vez mais digital. A escassez faz com que eles escolham onde trabalhar e quanto ganhar","isAccessibleForFree":"False","hasPart":{"@type":"WebPageElement","isAccessibleForFree":"False","cssSelector":".article"},"isPartOf":{"Name":"Temporada de ca\u00e7a aos devs","@type":["CreativeWork","Product"],"productID":null}}/* ]]> */</script>      <script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/"},"headline":"Temporada de caça aos devs","image":{"@type":"ImageObject","url":"https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg?quality=70&strip=info&w=1024","height":683,"width":1024},"datePublished":"2020-02-27T05:30:38-0300","dateModified":"2020-02-27T18:38:29-0300","author":{"@type":"Person","name":"Carolina Ingizza, Denyse Godoy, Fabiane Stefano, Luísa Granato e Rodrigo Loureiro"},"publisher":{"@type":"Organization","name":"EXAME","logo":{"@type":"ImageObject","url":"https://abrilexame.files.wordpress.com/2017/07/exame_redes.png?w=258","width":258,"height":60}},"description":"O Brasil precisa de desenvolvedores para competir num mundo cada vez mais digital. A escassez faz com que eles escolham onde trabalhar e quanto ganhar","isAccessibleForFree":"False","hasPart":{"@type":"WebPageElement","isAccessibleForFree":"False","cssSelector":".article"},"isPartOf":{"Name":"Temporada de caça aos devs","@type":["CreativeWork","Product"],"productID":null}}</script>
+      <link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyVUltSwzAMvBCup0ApPwxHYWRHuGr8GstpgNOjhEKbKYT0x6O1d1fy2rrPyqZYMVYdOpV95yiy9tQi6z3WDLZVI1pZ5ht9Rq87DEI6UNZgCnkVgCsWzfXd4wX7zNymgrIfMtSBEbAhQC9msc7J+iwaZUwuyKxkDdQF9TXF/8N9uxwRQUxaRHqsFt9t6gJNoKghwEeKCpiTJajIkldslenINyIZmgB482KAyS6PcdrqJw+MnaIADkfjE7w2gSKJAwthsOmpcVjV9GTxpIPDAWOT5O17ylhWEsvcSzpMyicLlVKcAPXqgcqctKDxyUnpxrYneNW0WQKTIEol+8tXvVDiGwT8418fybt77Xwy4AfCc3hab7abu/XD4+12/wn+4EYP?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Material+Icons|Lato:400,700,900|Hind+Siliguri|Heebo:700' media='all' />
+<script>
+var id_piano_analytics = ["UA-25165686-1"];
+var piano_brand = ["exame"];
+var logged_piano = [""];
+var label_piano_analytics = ["Exame"];
+var piano_is_sandbox_or_product = ["production"];
+var assine_environment = "production";
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFj90OgjAMhV/IMcWfeGN8ljEKFrdurhuoT+8wcmEgmjRpm37tOZWDF0japBpYdjluCcLjk4qOV/IXICy2QUUoLNIEa0cRKI6sdxwtMKsWFqbWVWhAJIaQAYpZpnEL3LclpB5h+It1EL3SVxGA8TlTjxfIvmSPXqoqoBFwVxbGK4w2GVW7IBokRRowzDzNtr1JLRJPHSpy7/fHIi+f7WmzP5Zledht190LcSWKHg=='></script>
+<script src='https://cdn.tinypass.com/api/tinypass-gtp.min.js?ver=5.4-beta1-47314'></script>
+<script src='https://r-login.wordpress.com/remote-login.php?m=1572447918h&#038;action=js&#038;host=exame.abril.com.br&#038;id=114407448&#038;t=1582844673&#038;back=https%3A%2F%2Fexame.abril.com.br%2Frevista-exame%2Ftemporada-de-caca-aos-devs%2F&#038;ver=1526988078' async defer onload='check_remote_login()'></script>
+<script>
+function check_remote_login() {
+	if ( 'function' === typeof WPRemoteLogin ) {
+		document.cookie = "wordpress_test_cookie=test; path=/";
+		if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+			WPRemoteLogin();
+		}
+	}
+}
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyNjEkOwjAMAD9E6iKC2gviLaW1EkdZLNs03ydIPIDDXEaagc5ub9WwGljEggonMWwvoezKpoYCnN+Bqv5kpyOgKVjjLy5SiHlgkBR0F2Kbkl7gj/EITqxHE9BOjDIVqqN9lsf17me/Ln69pQ+Unjuz'></script>
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fexame.abril.com.br%2Frevista-exame%2Ftemporada-de-caca-aos-devs%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fexame.abril.com.br%2Frevista-exame%2Ftemporada-de-caca-aos-devs%2F&amp;for=wpcom-auto-discovery" /><link rel="search" type="application/opensearchdescription+xml" href="https://exame.abril.com.br/osd.xml" title="EXAME" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+			<meta property="fb:pages" content="131180673952" />
+			<meta name="application-name" content="EXAME" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Confira as últimas notícias, blogs, vídeos e opiniões do site e da revista EXAME" /><meta name="msapplication-task" content="name=Assinar;action-uri=https://exame.abril.com.br/feed/;icon-uri=https://abrilexame.files.wordpress.com/2018/06/cropped-exame.png?w=16" /><link rel="icon" href="https://abrilexame.files.wordpress.com/2018/06/cropped-exame.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://abrilexame.files.wordpress.com/2018/06/cropped-exame.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://abrilexame.files.wordpress.com/2018/06/cropped-exame.png?w=180" />
+<meta name="msapplication-TileImage" content="https://abrilexame.files.wordpress.com/2018/06/cropped-exame.png?w=270" />
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s0.wp.com/?custom-css=1&#038;csblog=7K2Bq&#038;cscache=6&#038;csrev=49" />
+		<!-- Início do Objeto de dados -->
+<script>
+	var customData = {"tag":["Programadores","Serviços de informática","Software","Tecnologia da informação"],"editoria":["REVISTA EXAME"],"edicao":[],"programa":"","oferecimento":"","campanha-publicitaria":"","nome-blog":"","tipo-pagina":"Matéria","report-data-value":28165,"status-pagina":"Publicada","data-publicacao":"27/02/2020","hora-publicacao":"05:30","data-atualizacao":"27/02/2020","hora-atualizacao":"18:38","autor":["Carolina Ingizza, Denyse Godoy, Fabiane Stefano, Luísa Granato e Rodrigo Loureiro"],"editor":"janacribeiro","productID":null};
+</script>
+<!-- Fim do Objeto de dados -->
+					<script type='text/javascript'>window._taboola = window._taboola || []; _taboola.push({article:'auto'});!function (e, f, u, i) {if (!document.getElementById(i)){ e.async = 1;e.src = u;e.id = i; f.parentNode.insertBefore(e, f);}}(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/editoraabril-exame/loader.js', 'tb_loader_script');if(window.performance && typeof window.performance.mark == 'function'){window.performance.mark('tbl_ic');}</script>
+		</head>
+<body class="post-template-default single single-post postid-3768283 single-format-standard customizer-styles-applied revista-exame highlander-enabled highlander-light">
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVBN74" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		
+		<div id="abrAD_wallpaper" class="WallPaperAd"></div>
+			<header class="header">
+		<div class="container">
+			<nav class="nav">
+				<ul>
+					<li class="fullwidth">
+						<div class="account">
+							<div data-abrilid-product="PORTAL_EXAME" class="abril-id-container"></div>
+						</div>
+					</li>
+												<li class="paywall-login">
+								<i class="material-icons">account_circle</i>
+								<p><span id="login">Acesse sua conta</span></p>
+							</li>
+												<li>
+							<a href="https://www.assine.abril.com.br/portal/paginasEstaticas!showPromocao.action?codPromocao=sr_ex_land&#038;origem=sr_ex_menu&#038;utm_source=sites&#038;utm_medium=sr&#038;utm_campaign=sr_ex_menu_revista-exame_desktop" class="btn-sign btn-sign-menu" target="_blank">Assine</a>
+						</li>
+					  <li class="hidden-md hidden-lg">
+    <ul class="menu hot-topics">
+      <li><a class="trending hidden-xs hidden-sm"><i class="material-icons">trending_up</i> Trending</a></li>
+      <li id="menu-item-3711073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3711073"><a href="https://exame.abril.com.br/noticias-sobre/ibovespa/" class="menu-image-title-after"><span class="menu-image-title">Ibovespa</span></a></li>
+<li id="menu-item-3718921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3718921"><a href="https://exame.abril.com.br/noticias-sobre/dolar/" class="menu-image-title-after"><span class="menu-image-title">Dólar</span></a></li>
+<li id="menu-item-3538936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538936"><a href="https://exame.abril.com.br/noticias-sobre/coronavirus/" class="menu-image-title-after"><span class="menu-image-title">Coronavírus</span></a></li>
+<li id="menu-item-3761401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3761401"><a href="https://relatorios.exame.com.br/#/r/lp/2" class="menu-image-title-after"><span class="menu-image-title">Relatório</span></a></li>
+<li id="menu-item-3538938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538938"><a target="_blank" rel="noopener noreferrer" href="https://exame.abril.com.br/edicoes/1204/" class="menu-image-title-after"><span class="menu-image-title">Revista</span></a></li>
+<li id="menu-item-3538939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538939"><a href="https://exame.abril.com.br/newsletter/" class="menu-image-title-after"><span class="menu-image-title">Newsletter</span></a></li>
+    </ul>
+  </li>
+  <li>
+    <ul class="menu main">
+            <li id="menu-item-2896839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2896839"><a href="https://exame.abril.com.br/edicoes/" class="menu-image-title-after"><span class="menu-image-title">REVISTA EXAME</span></a></li>
+<li id="menu-item-2288765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2288765"><a href="https://exame.abril.com.br/ultimas-noticias/" class="menu-image-title-after"><span class="menu-image-title">ÚLTIMAS NOTÍCIAS</span></a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80"><a href="https://exame.abril.com.br/./brasil/" class="menu-image-title-after"><span class="menu-image-title">BRASIL</span></a></li>
+<li id="menu-item-3717416" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3717416"><a href="https://exame.abril.com.br/./carreira/" class="menu-image-title-after"><span class="menu-image-title">CARREIRA</span></a></li>
+<li id="menu-item-1145898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1145898"><a href="https://exame.abril.com.br/./ciencia/" class="menu-image-title-after"><span class="menu-image-title">CIÊNCIA</span></a></li>
+<li id="menu-item-2174529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174529"><a href="https://exame.abril.com.br/blog/" class="menu-image-title-after"><span class="menu-image-title">COLUNISTAS</span></a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82"><a href="https://exame.abril.com.br/./economia/" class="menu-image-title-after"><span class="menu-image-title">ECONOMIA</span></a></li>
+<li id="menu-item-2223135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2223135"><a href="https://exame.abril.com.br/eventos/" class="menu-image-title-after"><span class="menu-image-title">EVENTOS</span></a></li>
+<li id="menu-item-2893801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2893801"><a href="https://exame.abril.com.br/especiais/" class="menu-image-title-after"><span class="menu-image-title">ESPECIAIS</span></a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84"><a href="https://exame.abril.com.br/./marketing/" class="menu-image-title-after"><span class="menu-image-title">MARKETING</span></a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85"><a href="https://exame.abril.com.br/./mercados/" class="menu-image-title-after"><span class="menu-image-title">MERCADOS</span></a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86"><a href="https://exame.abril.com.br/./mundo/" class="menu-image-title-after"><span class="menu-image-title">MUNDO</span></a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79"><a href="https://exame.abril.com.br/./negocios/" class="menu-image-title-after"><span class="menu-image-title">NEGÓCIOS</span></a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88"><a href="https://exame.abril.com.br/./pme/" class="menu-image-title-after"><span class="menu-image-title">PME</span></a></li>
+<li id="menu-item-3566576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3566576"><a href="https://exame.abril.com.br/./podcast/" class="menu-image-title-after"><span class="menu-image-title">PODCASTS</span></a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90"><a href="https://exame.abril.com.br/./seu-dinheiro/" class="menu-image-title-after"><span class="menu-image-title">SEU DINHEIRO</span></a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91"><a href="https://exame.abril.com.br/./tecnologia/" class="menu-image-title-after"><span class="menu-image-title">TECNOLOGIA</span></a></li>
+<li id="menu-item-3717417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3717417"><a href="https://exame.abril.com.br/./estilo-de-vida/" class="menu-image-title-after"><span class="menu-image-title">VIDA E ARTE</span></a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92"><a href="https://exame.abril.com.br/./videos/" class="menu-image-title-after"><span class="menu-image-title">VÍDEOS</span></a></li>
+    </ul>
+  </li>
+<li>
+  <ul class="menu static">
+    <li><a href="https://exame.abril.com.br/expediente">Expediente</a></li>    <li><a href="http://www.publiabril.com.br/" target="_blank">Anuncie</a></li>
+    <li><a href="http://www.abril.com.br/" target="_blank">Abril.com</a></li>    <li><a href="http://www.grupoabril.com.br/" target="_blank">Grupo Abril</a></li>
+    <li><a href="http://www.sac.abril.com.br/" target="_blank">Abril SAC</a></li>
+    <li><a href="https://www.goread.com.br/?utm_campaign=se_exame_menu&#038;utm_medium=editorial&#038;utm_source=sites-parceiros" target="_blank">GoRead</a></li>
+    <li><a href="https://exame.abril.com.br/fale-conosco">Fale conosco</a></li>    <li><a href="https://exame.abril.com.br/politica-de-privacidade">Política de privacidade</a></li>
+    <li><a href="https://exame.abril.com.br/termos-de-uso">Termos de uso</a></li>
+  </ul>
+</li>
+  <li>
+    <ul class="social">
+      <li id="menu-item-1146446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146446"><a href="https://www.facebook.com/Exame" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">Facebook</span></a></li>
+<li id="menu-item-1146447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146447"><a href="https://twitter.com/exame" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">Twitter</span></a></li>
+<li id="menu-item-1146449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146449"><a href="http://www.linkedin.com/company/exame-com" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">Linkedin</span></a></li>
+<li id="menu-item-1828868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1828868"><a href="https://www.youtube.com/user/portalexame" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">YouTube</span></a></li>
+<li id="menu-item-1146450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146450"><a href="https://exame.abril.com.br/rss/" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">RSS</span></a></li>
+    </ul>
+  </li>
+<!--li>
+  <a href="#" class="btn-newsletter">Receba a newsletter</a>
+</li-->
+				</ul>
+									<i class="material-icons">menu</i>
+							</nav>
+			  <a href="https://exame.abril.com.br" class="brand">
+    <svg width="138px" height="28px" viewBox="0 0 138 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="brand-logo">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>EXAME</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logo-TAM.-header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EXAME" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Exame-Novo">
+                <path d="M1.19684444,27.2383067 L3.36964444,27.2383067 L6.6472,27.2383067 L11.0111556,27.2383067 L16.1301778,27.2383067 L19.9786222,27.3487511 L21.3963556,21.3458622 L20.3286222,21.0328844 C19.8740889,22.8202178 19.1560444,24.0310622 18.1741778,24.6657289 C17.192,25.3007067 15.2708889,25.61804 12.4105333,25.61804 C10.6182222,25.61804 9.46742222,25.4092844 8.95813333,24.9917733 C8.44853333,24.5745733 8.19404444,23.6291067 8.19404444,22.1563067 L8.19404444,14.3856844 L11.3978667,14.3856844 C13.1777333,14.3856844 14.2949333,14.6096844 14.7491556,15.0576844 C15.2030667,15.5059956 15.4304889,16.44804 15.4304889,17.8841289 L16.5168889,17.66324 L16.4431556,15.4720844 C16.4431556,15.2141733 16.4369333,14.8551511 16.4248,14.3950178 C16.4123556,13.9345733 16.4064444,13.6001289 16.4064444,13.3913733 L16.5168889,9.96635111 L16.5536,9.21159556 L15.4304889,9.21159556 L15.4304889,9.35875111 C15.4304889,10.6234178 15.1878222,11.4609289 14.7031111,11.8722178 C14.2180889,12.2835067 13.0918667,12.4891511 11.3241333,12.4891511 L8.19404444,12.4891511 L8.19404444,2.47199556 L12.3371111,2.47199556 C14.5341778,2.47199556 15.9830222,2.77564 16.6827111,3.38199556 C17.3824,3.98866222 17.8058222,5.14008444 17.9532889,6.83626222 L18.9289333,6.43368444 L18.9289333,0.998884444 L17.5849333,0.998884444 L13.8929778,0.998884444 L9.24342222,0.998884444 L3.8668,0.998884444 L0,0.962173333 L0,2.08528444 L0.312977778,2.08528444 C1.57733333,2.08528444 2.39648889,2.23275111 2.77106667,2.52737333 C3.14564444,2.82199556 3.33293333,3.66915111 3.33293333,5.06852889 L3.33293333,23.3161289 C3.33293333,24.5195067 3.12697778,25.2711511 2.716,25.5719956 C2.3044,25.87284 1.39937778,26.0231067 0,26.0231067 L0.0183555556,27.3487511 C0.410977778,27.2750178 0.803911111,27.2383067 1.19684444,27.2383067 L1.19684444,27.2383067 Z M23.8976889,27.1645733 L26.5125778,27.1645733 L29.1271556,27.1645733 L31.3736889,27.2383067 L31.3736889,26.0414622 L31.2632444,26.0781733 L31.1528,26.0414622 L31.0423556,26.0414622 C30.0968889,26.0414622 29.4093333,25.9795511 28.98,25.8554178 C28.5867556,25.7070178 28.3907556,25.47804 28.3907556,25.1684844 C28.4150222,24.9581733 28.4582667,24.7662178 28.5198667,24.5929289 C28.6303111,24.3574178 28.7535111,24.1595511 28.8888444,23.9983956 L34.5358222,16.5158622 L39.7889333,23.96044 C40.1078222,24.4062622 40.3134667,24.7223511 40.4055556,24.9080844 C40.4976444,25.0941289 40.5436889,25.2611956 40.5436889,25.4095956 C40.5436889,25.6329733 40.4208,25.7941289 40.1753333,25.8930622 C39.9295556,25.9919956 39.5002222,26.0414622 38.8864,26.0414622 L38.3892444,26.0414622 L38.3892444,27.2383067 C38.5734222,27.2383067 39.1072889,27.2261733 39.9911556,27.2015956 C40.8750222,27.1770178 41.4888444,27.1645733 41.8326222,27.1645733 L44.3551111,27.1645733 L46.2149333,27.1645733 L49.5478667,27.2383067 L49.5478667,26.0414622 L49.2526222,26.0414622 C48.5395556,26.0414622 47.9157778,25.9023956 47.3806667,25.6239511 C46.8458667,25.3455067 46.3449778,24.8785289 45.8776889,24.2223956 L37.6768,12.63164 L43.4818222,5.57408444 L43.6103111,5.39986222 C44.5172,4.30755111 45.4421333,3.48186222 46.3857333,2.92310667 C47.3293333,2.36466222 48.3096444,2.08528444 49.3269778,2.08528444 L49.3269778,0.870084444 C49.2283556,0.88564 49.0749778,0.916128889 48.8665333,0.962173333 L48.0747556,0.962173333 L46.2332889,0.962173333 L44.5025778,0.962173333 L42.5690222,0.962173333 L40.7092,0.962173333 L39.5123556,0.870084444 L39.5307111,2.08528444 C40.0216444,2.08528444 40.4360444,2.11328444 40.7739111,2.16866222 C41.1111556,2.22372889 41.4088889,2.30679556 41.6668,2.41724 C42.1456,2.60172889 42.3848444,2.85372889 42.3848444,3.17292889 C42.3848444,3.40657333 42.3052,3.68346222 42.1465333,4.00266222 C42.0364,4.18715111 41.8771111,4.42359556 41.6692889,4.71261778 C41.4614667,5.00132889 41.3146222,5.20697333 41.2293778,5.32986222 L36.6454667,11.2658622 L31.8459556,4.33648444 L31.7367556,4.17035111 C31.3964,3.64177333 31.2262222,3.26004 31.2262222,3.02639556 C31.2262222,2.68199556 31.3369778,2.43932889 31.5578667,2.29777333 C31.7787556,2.15621778 32.1838222,2.08528444 32.7730667,2.08528444 L32.9939556,2.08528444 L33.2518667,2.08528444 L33.4360444,2.08528444 L33.5648444,2.08528444 L33.5648444,0.870084444 C33.5524,0.870084444 33.264,0.88564 32.6993333,0.916128889 C32.1346667,0.946928889 31.7296,0.962173333 31.4841333,0.962173333 L28.1328444,0.962173333 L24.8552889,0.962173333 L21.8353333,0.870084444 L21.8353333,2.08528444 C22.5228889,2.14688444 23.0751111,2.22684 23.4926222,2.32484 C23.996,2.48444 24.3609333,2.64092889 24.5883556,2.79430667 C24.8151556,2.94799556 25.0332444,3.16577333 25.242,3.44795111 C25.3157333,3.53412889 25.4628889,3.72421778 25.6837778,4.01884 C25.9049778,4.31346222 26.1193333,4.60217333 26.3284,4.88435111 L33.6046667,15.1003067 L26.586,23.57404 C25.7142667,24.6252844 24.9564,25.2994622 24.3120889,25.5962622 C23.6674667,25.8933733 22.8909333,26.0414622 21.9828,26.0414622 L21.6881778,26.0414622 L21.6881778,27.1645733 L23.8976889,27.1645733 Z M59.0171556,15.9325289 L62.6307111,5.36968444 L66.1593333,15.93004 L59.0171556,15.9325289 Z M51.7169333,27.1645733 L52.2324444,27.1645733 L52.8584,27.1645733 L53.3555556,27.1645733 L56.5410222,27.1645733 L59.4688889,27.2383067 L59.4688889,26.0781733 C58.3392444,26.0781733 57.5291111,25.9739511 57.0381778,25.7648844 C56.5715111,25.5315511 56.3384889,25.1694178 56.3384889,24.6778622 C56.3384889,24.5307067 56.3748889,24.3154178 56.4476889,24.0329289 L56.8288,22.7800844 L58.4484444,18.14204 L66.8649333,18.1439067 L68.5940889,23.2084844 C68.7316,23.6011067 68.8258667,23.9383511 68.8762667,24.2202178 C68.8884,24.2939511 68.9073778,24.3922622 68.9325778,24.51484 C68.9574667,24.6374178 68.9702222,24.7662178 68.9702222,24.9009289 C68.9702222,25.3302622 68.8165333,25.6335956 68.5097778,25.8115511 C68.2030222,25.9895067 67.6262222,26.0781733 66.7790667,26.0781733 L66.2635556,26.0781733 L66.2635556,27.2383067 C66.4107111,27.2383067 66.9140889,27.2261733 67.7733778,27.2015956 C68.6323556,27.1770178 69.2281333,27.1645733 69.5594667,27.1645733 L70.9865333,27.1645733 L72.2477778,27.1645733 L74.6047556,27.1645733 L77.0354667,27.2383067 L77.0538222,26.0781733 C76.1948444,26.0781733 75.5377778,25.9188844 75.0838667,25.5993733 C74.6542222,25.2559067 74.2924,24.6358622 73.9977778,23.7395511 L65.8031111,0.000217777778 L63.8328444,0.960306667 C63.5257778,1.09564 63.2003556,1.23128444 62.8568889,1.36630667 C62.5131111,1.50195111 62.2001333,1.61861778 61.9179556,1.71724 L55.0685333,22.0645289 C54.5038667,23.7215067 53.9329778,24.8047956 53.3558667,25.3140844 C52.7787556,25.8236844 51.9745333,26.0781733 50.9435111,26.0781733 L50.9618667,27.2383067 C51.3302222,27.1894622 51.5816,27.1645733 51.7169333,27.1645733 L51.7169333,27.1645733 Z M79.4624444,27.1645733 L80.9725778,27.1645733 L84.784,27.1645733 L88.0248444,27.31204 L88.0248444,26.1151956 L87.3435111,26.1151956 C86.2138667,26.1151956 85.4469778,25.9188844 85.0419111,25.5259511 C84.6368444,25.1330178 84.4343111,24.3228844 84.4343111,23.09524 L84.4526667,22.2483956 L84.5811556,20.9961733 L85.8704,7.22266222 L94.8736444,27.7724844 L95.9059111,27.6987511 L105.407244,6.72550667 L106.382889,22.4139067 L106.389733,22.52404 L106.456622,23.9237289 C106.456622,24.7957733 106.278667,25.3784844 105.922756,25.6731067 C105.566533,25.9677289 104.903556,26.1151956 103.934133,26.1151956 L103.2528,26.1151956 L103.289511,27.2199511 C103.498267,27.2199511 103.847956,27.2106178 104.3392,27.1922622 C104.830133,27.1739067 105.210622,27.1645733 105.480667,27.1645733 L109.513289,27.1645733 L112.938311,27.1645733 L114.669022,27.1645733 L114.687689,26.1151956 L113.767733,26.1151956 C112.811067,26.1151956 112.161156,25.8697289 111.818,25.3784844 C111.621689,25.0963067 111.471111,24.6787956 111.3672,24.1265733 C111.262978,23.57404 111.211022,22.87404 111.211022,22.0268844 L110.160089,6.32044 L110.066133,5.14195111 L110.047467,4.99479556 C110.047467,4.41799556 110.108756,3.94510667 110.231644,3.57706222 C110.354222,3.20870667 110.538089,2.92030667 110.783867,2.71155111 C111.2748,2.29435111 112.195378,2.08528444 113.545911,2.08528444 L113.545911,0.962173333 C112.9324,1.02377333 112.386711,1.05426222 111.908533,1.05426222 L109.848044,1.07261778 L107.750844,1.05488444 L105.672,0.965284444 L97.0284,20.6691956 L88.3148,0.964351111 C88.1430667,0.988306667 87.9377333,1.01257333 87.6981778,1.03684 C87.4589333,1.06079556 87.2044444,1.07261778 86.9347111,1.07261778 C86.7751111,1.07261778 86.4282222,1.07915111 85.8949778,1.09097333 C85.3611111,1.10341778 84.9103111,1.10964 84.5422667,1.10964 L81.8555111,1.07261778 L80.4384,0.962173333 L80.4384,2.08528444 C81.9236444,2.22061778 82.9058222,2.50621778 83.3846222,2.94177333 C83.8634222,3.37764 84.1026667,4.18466222 84.1026667,5.36284 L84.0616,6.39386222 L83.8873778,8.45528444 L83.1796,16.4110178 C83.0196889,18.1908844 82.8112444,19.8606178 82.5536444,21.4195956 C82.2960444,22.9788844 82.1056444,23.9607511 81.9830667,24.3658178 C81.7621778,25.0166622 81.4093778,25.4705733 80.9249778,25.7284844 C80.4405778,25.9860844 79.6522222,26.1151956 78.5602222,26.1151956 L78.5602222,27.1645733 L79.4624444,27.1645733 Z M117.305067,27.2383067 L119.477867,27.2383067 L122.755422,27.2383067 L127.119378,27.2383067 L132.2384,27.2383067 L136.086844,27.3487511 L137.504578,21.3458622 L136.436844,21.0328844 C135.982311,22.8202178 135.264267,24.0310622 134.2824,24.6657289 C133.300222,25.3007067 131.379111,25.61804 128.518756,25.61804 C126.726444,25.61804 125.575644,25.4092844 125.066356,24.9917733 C124.556756,24.5745733 124.302267,23.6291067 124.302267,22.1563067 L124.302267,14.3856844 L127.506089,14.3856844 C129.285956,14.3856844 130.403156,14.6096844 130.857378,15.0576844 C131.311289,15.5059956 131.538711,16.44804 131.538711,17.8841289 L132.625111,17.66324 L132.551378,15.4720844 C132.551378,15.2141733 132.545156,14.8551511 132.533022,14.3950178 C132.520578,13.9345733 132.514667,13.6001289 132.514667,13.3913733 L132.625111,9.96635111 L132.661822,9.21159556 L131.538711,9.21159556 L131.538711,9.35875111 C131.538711,10.6234178 131.296044,11.4609289 130.811333,11.8722178 C130.326311,12.2835067 129.200089,12.4891511 127.432667,12.4891511 L124.302267,12.4891511 L124.302267,2.47199556 L128.445333,2.47199556 C130.6424,2.47199556 132.091244,2.77564 132.790933,3.38199556 C133.490622,3.98866222 133.914044,5.14008444 134.061511,6.83626222 L135.037156,6.43368444 L135.037156,0.998884444 L133.693156,0.998884444 L130.0012,0.998884444 L125.351644,0.998884444 L119.975022,0.998884444 L116.108222,0.962173333 L116.108222,2.08528444 L116.4212,2.08528444 C117.685556,2.08528444 118.504711,2.23275111 118.879289,2.52737333 C119.253867,2.82199556 119.441156,3.66915111 119.441156,5.06852889 L119.441156,23.3161289 C119.441156,24.5195067 119.2352,25.2711511 118.824222,25.5719956 C118.412622,25.87284 117.5076,26.0231067 116.108222,26.0231067 L116.126578,27.3487511 C116.5192,27.2750178 116.912133,27.2383067 117.305067,27.2383067 L117.305067,27.2383067 Z" id="Page-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>  </a>
+				<div class="sign">
+											<a href="https://www.assine.abril.com.br/portal/paginasEstaticas!showPromocao.action?codPromocao=sr_ex_land&#038;origem=sr_ex_topo&#038;utm_source=sites&#038;utm_medium=sr&#038;utm_campaign=sr_ex_topo_revista-exame_desktop" class="hidden-xs hidden-sm" target="_blank">
+							<img src="https://abrilexame.files.wordpress.com/2020/02/capa-devs-code.jpg?quality=70&#038;strip=info&#038;w=50&#038;h=60&#038;crop=1" alt="Assine" class="cover">
+						</a>
+										<a href="https://www.assine.abril.com.br/portal/paginasEstaticas!showPromocao.action?codPromocao=sr_ex_land&#038;origem=sr_ex_topo&#038;utm_source=sites&#038;utm_medium=sr&#038;utm_campaign=sr_ex_topo_revista-exame_desktop" class="btn-sign" target="_blank">Assine</a>
+				</div>
+			<form id="cse-search-box" action="https://exame.abril.com.br/" class="search">
+    <input type="text" name="s" placeholder="O que você procura?" value="">
+    <i class="material-icons">search</i>
+</form>					<ul class="menu-hot-topics hidden-xs hidden-sm">
+						<li><a class="trending"><i class="material-icons">trending_up</i></a></li>
+						<li id="menu-item-3711073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3711073"><a href="https://exame.abril.com.br/noticias-sobre/ibovespa/" class="menu-image-title-after"><span class="menu-image-title">Ibovespa</span></a></li>
+<li id="menu-item-3718921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3718921"><a href="https://exame.abril.com.br/noticias-sobre/dolar/" class="menu-image-title-after"><span class="menu-image-title">Dólar</span></a></li>
+<li id="menu-item-3538936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538936"><a href="https://exame.abril.com.br/noticias-sobre/coronavirus/" class="menu-image-title-after"><span class="menu-image-title">Coronavírus</span></a></li>
+<li id="menu-item-3761401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3761401"><a href="https://relatorios.exame.com.br/#/r/lp/2" class="menu-image-title-after"><span class="menu-image-title">Relatório</span></a></li>
+<li id="menu-item-3538938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538938"><a target="_blank" rel="noopener noreferrer" href="https://exame.abril.com.br/edicoes/1204/" class="menu-image-title-after"><span class="menu-image-title">Revista</span></a></li>
+<li id="menu-item-3538939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538939"><a href="https://exame.abril.com.br/newsletter/" class="menu-image-title-after"><span class="menu-image-title">Newsletter</span></a></li>
+					</ul>
+						</div>
+	</header>
+				<div class="sidebar-top hidden-xs hidden-sm">
+				<div class="container">
+					<div id="abril_popular_posts_widget-12" class="widget"><div class="widget-popular-posts-container"><span class="widget-popular-posts-title content-box-title">Mais vistas</span><div class="widget-popular-posts row"><div class="widget-popular-posts-list"><div class="widget-popular-posts-item col-xs-3"><a href="https://exame.abril.com.br/pme/startup-de-curitiba-cria-uber-dos-repositores-de-supermercado/" class="a-img here" rel="bookmark"><img src="https://abrilexame.files.wordpress.com/2020/02/repositora_crc3a9dito_divulgac3a7c3a3o-1.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1" class="widget-popular-posts-thumb" alt="Repositora da Anthor: startup agiliza reposição de produtos nos supermercados" data-pin-nopin="true" srcset="https://abrilexame.files.wordpress.com/2020/02/repositora_crc3a9dito_divulgac3a7c3a3o-1.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2020/02/repositora_crc3a9dito_divulgac3a7c3a3o-1.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2020/02/repositora_crc3a9dito_divulgac3a7c3a3o-1.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2020/02/repositora_crc3a9dito_divulgac3a7c3a3o-1.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(max-width: 165px) 100vw, 165px" title="Repositora da Anthor: startup agiliza reposição de produtos nos supermercados" /></a><a href="https://exame.abril.com.br/pme/startup-de-curitiba-cria-uber-dos-repositores-de-supermercado/" class="list-item-category">PME</a><div class="widget-popular-posts-info"><span class="widget-popular-posts-item-title"><span class="item-popular-order-number">1</span><a href="https://exame.abril.com.br/pme/startup-de-curitiba-cria-uber-dos-repositores-de-supermercado/" class="">Startup de Curitiba cria Uber dos repositores de supermercado</a></span></div></div><div class="widget-popular-posts-item col-xs-3"><a href="https://exame.abril.com.br/seu-dinheiro/feirao-do-serasa-comeca-amanha-e-oferece-desconto-de-ate-98/" class="a-img here" rel="bookmark"><img src="https://abrilexame.files.wordpress.com/2017/09/thinkstockphotos-638648078.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1" class="widget-popular-posts-thumb" alt="Homem com dívida" data-pin-nopin="true" srcset="https://abrilexame.files.wordpress.com/2017/09/thinkstockphotos-638648078.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2017/09/thinkstockphotos-638648078.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2017/09/thinkstockphotos-638648078.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2017/09/thinkstockphotos-638648078.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(max-width: 165px) 100vw, 165px" title="Homem com dívida" /></a><a href="https://exame.abril.com.br/seu-dinheiro/feirao-do-serasa-comeca-amanha-e-oferece-desconto-de-ate-98/" class="list-item-category">SEU DINHEIRO</a><div class="widget-popular-posts-info"><span class="widget-popular-posts-item-title"><span class="item-popular-order-number">2</span><a href="https://exame.abril.com.br/seu-dinheiro/feirao-do-serasa-comeca-amanha-e-oferece-desconto-de-ate-98/" class="">Feirão do Serasa começa nesta quinta e oferece desconto de até 98%</a></span></div></div><div class="widget-popular-posts-item col-xs-3"><a href="https://exame.abril.com.br/brasil/contraprova-confirma-1o-caso-de-coronavirus-no-brasil-diz-fonte/" class="a-img here" rel="bookmark"><img src="https://abrilexame.files.wordpress.com/2020/02/coronavc3adrus.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1" class="widget-popular-posts-thumb" alt="Soldado com roupa de proteção antes da chegada de brasileiros que estavam em Wuhan" data-pin-nopin="true" srcset="https://abrilexame.files.wordpress.com/2020/02/coronavc3adrus.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2020/02/coronavc3adrus.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2020/02/coronavc3adrus.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2020/02/coronavc3adrus.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(max-width: 165px) 100vw, 165px" title="coronavírus" /></a><a href="https://exame.abril.com.br/brasil/contraprova-confirma-1o-caso-de-coronavirus-no-brasil-diz-fonte/" class="list-item-category">BRASIL</a><div class="widget-popular-posts-info"><span class="widget-popular-posts-item-title"><span class="item-popular-order-number">3</span><a href="https://exame.abril.com.br/brasil/contraprova-confirma-1o-caso-de-coronavirus-no-brasil-diz-fonte/" class="">Contraprova confirma 1º caso de coronavírus no Brasil, diz fonte</a></span></div></div><div class="widget-popular-posts-item col-xs-3"><a href="https://exame.abril.com.br/brasil/ministerio-da-saude-confirma-caso-de-coronavirus-no-brasil-veja-coletiva/" class="a-img here" rel="bookmark"><img src="https://abrilexame.files.wordpress.com/2020/01/gettyimages-1134490146.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1" class="widget-popular-posts-thumb" alt="Coronavírus" data-pin-nopin="true" srcset="https://abrilexame.files.wordpress.com/2020/01/gettyimages-1134490146.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2020/01/gettyimages-1134490146.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2020/01/gettyimages-1134490146.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2020/01/gettyimages-1134490146.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(max-width: 165px) 100vw, 165px" title="EM Coronavirus, causing SARS" /></a><a href="https://exame.abril.com.br/brasil/ministerio-da-saude-confirma-caso-de-coronavirus-no-brasil-veja-coletiva/" class="list-item-category">BRASIL</a><div class="widget-popular-posts-info"><span class="widget-popular-posts-item-title"><span class="item-popular-order-number">4</span><a href="https://exame.abril.com.br/brasil/ministerio-da-saude-confirma-caso-de-coronavirus-no-brasil-veja-coletiva/" class="">Ministério da Saúde confirma caso de coronavírus no Brasil e 20 suspeitas</a></span></div></div></div></div></div></div>				</div>
+			</div>
+		<div id="superbanner-3" class="widget-superbanner absolute-superbanner"><div class="ad-top-offset"></div><div class="ad-top"><div id="abrAD_leaderboard1"></div></div></div><div class="container main-container">
+	<div class="row">
+		<div class="col-md-8 p402_premium">
+								<article id="post-3768283" class="article">
+						<header class="article-header">
+															<div class="article-category">
+									<a href="/revista-exame">REVISTA EXAME</a>								</div>
+														<h1 class="article-title">Temporada de caça aos devs</h1>
+																<h2 class="article-subtitle">O Brasil precisa de desenvolvedores para competir num mundo cada vez mais digital. A escassez faz com que eles escolham onde trabalhar e quanto ganhar</h2>
+															  
+  <div class="article-author">
+        <div class="article-author-name">Por <span><strong>Carolina Ingizza, Denyse Godoy, Fabiane Stefano, Luísa Granato e Rodrigo Loureiro</strong></span></div>
+    <div class="article-date">
+      <i class="material-icons">access_time</i>
+      <span>
+        27 fev 2020, 18h38 - Publicado em 27 fev 2020, 05h30      </span>
+    </div>
+  </div>
+						</header>
+						<section class="share">
+							
+      <a href="whatsapp://send?text=Temporada de caça aos devs https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/?utm_source=whatsapp&amp;utm_medium=social&amp;utm_campaign=barra-compartilhamento EXAME" data-action="share/whatsapp/share" class="whatsapp  hidden-md hidden-lg"><i class="icon-whatsapp"></i></a>
+
+    
+      <a href="https://facebook.com/sharer/sharer.php?u=https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/" target="_blank" class=""><i class="icon-facebook"></i></a>
+
+    
+      <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexame.abril.com.br%2Frevista-exame%2Ftemporada-de-caca-aos-devs%2F&amp;text=Temporada de caça aos devs&amp;via=exame" target="_blank" class=""><i class="icon-twitter"></i></a>
+
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fexame.abril.com.br%2Frevista-exame%2Ftemporada-de-caca-aos-devs%2F&summary=&source=LinkedIn" target="_blank" class=" hidden-sm hidden-xs"><i class="icon-linkedin"></i></a>
+
+    
+      <a href="mailto:?subject=Temporada de caça aos devs&amp;body=Temporada de caça aos devs https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/?utm_source=email&amp;utm_medium=email&amp;utm_campaign=barra-compartilhamento via EXAME" class=""><i class="icon-envelope-o"></i></a>
+
+    
+      <a href="fb-messenger://share/?link=https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/&app_id=" class="whatsapp  hidden-sm hidden-xs hidden-md hidden-lg"><i class="icon-Facebook-Messenger"></i></a>
+
+    
+      <a href="#respond" class=" hidden-sm hidden-xs hidden-md hidden-lg"><i class="material-icons">chat_bubble_outline</i></a>
+
+    
+            <a href="//pinterest.com/pin/create/link/?url=https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/&amp;description=Temporada de caça aos devs&amp;media=https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg?quality=70&amp;strip=info&amp;w=680&amp;h=453&amp;crop=1" class=" hidden-sm hidden-xs hidden-md hidden-lg" target="_blank"><i class="icon-pinterest"></i></a>
+
+      <i class="material-icons" onclick="toggle(this,'.share','more_horiz','close')">more_horiz</i>
+						</section>
+						<section class="article-content">
+															<div class="featured-image">
+									<div class="image">
+										<img data-src="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg" class="abril-image optimized lazyload" abril-data-id="3768283" sizes="(min-width: 991px) 680px, (max-width: 420px) 420px, (max-width: 360px) 360px, " data-srcset="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg?quality=70&amp;strip=info&amp;resize=680,453 680w, https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg?quality=70&amp;strip=all&amp;resize=420,280 420w, https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-1-1.jpg?quality=70&amp;strip=all&amp;resize=360,240 360w, " data-pin-nopin="false" alt="">									</div>
+									<p class="caption">Os alunos e professores da escola de programação Trybe: 5.000 candidatos para apenas 100 vagas em um curso que pode custar até 36.000 reais&nbsp;(Germano Lüders/EXAME)</p>
+								</div>
+							<p>A administradora de empresas Isabel Nasser,<span class="s1"><b> </b></span><span class="s2">cofundadora da startup de automatização de operações de comércio exterior Kestraa,<span class="Apple-converted-space">  </span>de São Paulo, ficou chocada quando um estagiário em desenvolvimento de softwares que estava terminando a faculdade recusou um salário de 12.000 reais com carteira assinada e generosos benefícios para ser efetivado. A proposta saltaria aos olhos de qualquer jovem, especialmente em um país onde a taxa de desemprego na faixa etária de 18 a 24 anos bate em 27%, mas o recém-formado recusou a oferta chamando-a de “insulto”, por ser baixa demais. A empresa de energia elétrica EDP do Brasil, que serve São Paulo e o Espírito Santo, quer aumentar a digitalização de processos administrativos, mas tem vagas abertas no time de tecnologia há seis meses. </span></p>
+<p><span class="s2">Se os devs — como são chamados os desenvolvedores de software — não vão às empresas, as empresas vão aos devs. A Movile, que criou algumas das mais bem-sucedidas startups brasileiras, como iFood e PlayKids, e é avaliada em 1 bilhão de dólares, abriu escritórios em Recife, Porto Alegre e São Carlos, no interior paulista, para atrair devs em polos regionais de inovação. “Existe uma competição feroz por desenvolvedores no Brasil. Isso fez com que os salários disparassem e obrigou as empresas a participar ativamente na formação desse tipo de profissional”, diz Luciana Carvalho, vice-presidente de gente e gestão da Movile. Em média, a companhia leva 45 dias para preencher uma vaga de desenvolvedor. Bem-vindo ao fabuloso mundo dos devs, os profissionais mais requisitados do mercado de trabalho no Brasil e no mundo.</span></p>
+<p><span class="s2">Contratar profissionais da área de tecnologia no Brasil é um trabalho hercúleo. De todas as deficiências da economia, essa é uma das mais urgentes. Entrando para valer no atual ciclo global de inovação, o país poderia finalmente chegar ao futuro que há décadas espera. “Temos uma enorme oportunidade de alavancar nossa economia. Mas, sem trabalhadores capacitados, em vez de produzir, seremos apenas importadores de tecnologia”, diz Sergio Paulo Gallindo, presidente da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom).</span></p>
+<figure class="wp-caption alignnone"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-2-2.jpg?quality=70&amp;strip=info&strip=info" border="0" alt="" width="" height="" /><figcaption class="wp-caption-text">Victor Hugo Germano, da fábrica de software Lambda3: ele prefere demitir clientes a exigir uma carga de trabalho excessiva | Germano Lüders</figcaption></figure>
+<p><span class="s2">O descompasso entre a disponibilidade de profissionais no Brasil e a demanda das empresas é gritante. No país há, atualmente, apenas 2 milhões de trabalhadores graduados nas áreas de ciência, tecnologia, engenharia e matemática, o correspondente a 1,9% da força de trabalho, segundo dados da Organização para Cooperação e Desenvolvimento Econômico. De 2019 a 2024, de acordo com cálculos da Brasscom, a demanda média deve ser de 70.000 profissionais por ano. No entanto, em 2017, de 46.000 profissionais formados, apenas 26.000 entraram no mercado de trabalho, evidenciando uma defasagem no currículo das instituições. Nesse ritmo, ao final do período de seis anos, o déficit chegaria a 264.000. </span></p>
+<p><img class="" src="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros-2.png" border="0" alt="" width="" height="" /></p>
+<p>A corrida acelerada por devs fez com que profissionais como a programadora pernambucana Roberta Arcoverde passassem a ser assediados. Há seis anos, Arcoverde trabalha remotamente para o site americano Stack Overflow, que recebe mais de 50 milhões de visitas por mês. “Devo receber uma oferta por semana, eles me abordam via LinkedIn, e-mail, pombo-correio”, brinca. Ela trabalhou para as consultorias de software brasileiras TCI, Chemtech e Radix antes de aceitar a proposta do site americano. Com mais de dez anos de experiência na área, continua estudando para acompanhar as mudanças na tecnologia. “O legal dessa profissão é poder construir coisas do zero, é uma profissão de cunho quase artístico. Sua ideia vira algo tangível, executável, que ajuda a vida das pessoas”, diz.</p>
+<p><span class="s2">Desde os anos 1980, quando os primeiros computadores começaram a surgir nas empresas e gênios como Bill Gates e Steve Jobs despontaram, o Brasil enfrenta a falta de profissionais de tecnologia. Nessa época, a carência era do pessoal de suporte, encarregado por fazer softwares hoje considerados pré-históricos funcionarem. Aos poucos, a necessidade passou a ser também a de manter os profissionais conectados à rede e a pensar em novos serviços. As mudanças deslocaram os profissionais de tecnologia da função de suporte para o centro das decisões dos negócios. Os desenvolvedores tornaram-se figuras fundamentais na criação de plataformas de comércio eletrônico, de aplicativos de mobilidade e de softwares de automação industrial, entre muitas outras funcionalidades. </span></p>
+<p><span class="s2">E, à medida que a economia digital no país ganha mais peso nos segmentos mais tradicionais de atividade, a pressão por talentos de tecnologia aumenta. A consultoria Accenture estima que a economia digital no Brasil já responde por 24,3% do PIB do Brasil — o que equivaleria a 446 bilhões de dólares. Desde 2015, todas as atividades produtivas que envolvem tecnologias digitais no país tiveram uma expansão de 20% — diante de um avanço de 1,2% da economia não digital no período. “A economia digital no país vem se diversificando rapidamente. Antes ela era formada apenas por empresas que forneciam software e equipamentos. Agora, todo tipo de negócio precisa de uma camada robusta de tecnologia”, diz Pedro Waengertner, sócio e fundador da ACE Startups, aceleradora que já investiu em mais de 100 startups brasileiras.</span></p>
+<p><img class="" src="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros2-2.png" border="0" alt="" width="" height="" /></p>
+<p><span class="s2">As startups de tecnologia se destacam na contratação dos devs porque estão recebendo vultosos investimentos e têm pressa para crescer e conquistar mercado. Em 2019, as startups brasileiras receberam 2,7 bilhões de dólares em aportes de fundos de investimento, conforme dados da Distrito, organização que faz pesquisas sobre empreendedorismo no Brasil. É quase dez vezes mais do que o valor arrecadado em 2016. Mais dinheiro, mais startups. De 2016 a 2019, o número de startups triplicou no Brasil, passando de 4.273 para 12.700. O problema é que a oferta de profissionais não dá conta do crescimento desse mercado. “A alta demanda faz com que os talentos migrem de empresa com frequência. Os empreendedores perdem muito tempo na busca e na contratação desses profissionais”, diz Amure Pinho, presidente da Associação Brasileira de Startups.</span></p>
+<figure class="wp-caption alignnone"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-12-2.jpg?quality=70&amp;strip=info&strip=info" border="0" alt="" width="" height="" /><figcaption class="wp-caption-text">Bill Gates, fundador da Microsoft: primeira geração de devs | Doug Wilson/Getty Images</figcaption></figure>
+<p><span class="s2">Na guerra pelos devs, cada empresa usa uma tática diferente. Em janeiro, o Nubank fez um acordo para contratar 50 funcionários da consultoria de desenvolvimento de software Plataformatec que já prestavam serviço para o banco digital. Também vem abrindo escritórios internacionais tanto para atrair profissionais que moram em outros países quanto para oferecer a seus funcionários o benefício de morar fora. Desde 2017, o Nubank tem um escritório em Berlim, na Alemanha. </span></p>
+<p><span class="s2">Em 2019, foi a vez de a Cidade do México e de Buenos Aires, na Argentina, receberem filiais do unicórnio brasileiro, avaliado em mais de 10 bilhões de dólares. O diferencial do banco, eleito pelo LinkedIn em 2018 e 2019 como a startup brasileira mais desejada para trabalhar, foi construir uma marca empregadora forte a ponto de conseguir contratar brasileiros que estavam fora do país. “Miramos os engenheiros brasileiros que estão em companhias em diferentes países, porque eles realmente querem voltar e fazer parte de algo significativo que vai mudar o Brasil”, diz Renee Mauldin, diretora de pessoas da empresa.</span></p>
+<figure class="wp-caption alignnone"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-6-2.jpg?quality=70&amp;strip=info&strip=info" border="0" alt="" width="" height="" /><figcaption class="wp-caption-text">Renee Mauldin, do Nubank: busca por brasileiros que trabalham no exterior | Germano Lüders</figcaption></figure>
+<p><span class="s2">Empresas brasileiras disputam os escassos talentos locais com o mercado internacional. Só nos Estados Unidos há 472.000 vagas em aberto para profissionais da área. O programador brasileiro é bom tecnicamente e é barato. Enquanto nos Estados Unidos o salário médio de um programador é de 109.000 dólares por ano, no Brasil é de 11.000 dólares. Outro desafio para os empregadores brasileiros é o fato de que 87% dos especialistas em tecnologia do país estarem dispostos a experimentar oportunidades de trabalho fora, segundo pesquisa da consultoria Boston Consulting Group em parceria com a empresa de recrutamento The Network. A porcentagem é maior do que a média global, de 67%. De acordo com o estudo, brasileiros são mais atraí-dos por oportunidades nos Estados Unidos, no Canadá, em Portugal e na Alemanha. Para eles, o que mais importa na hora de escolher uma vaga é a possibilidade de crescimento na carreira — o salário aparece só na oitava posição da lista. </span></p>
+<p><span class="s2">A perspectiva da carreira internacional fez com que o catarinense Marcelo Camargo, considerado uma celebridade no mundo dos devs no Brasil, trocasse Joinville por Sydney, na Austrália. Aos 23 anos, é engenheiro de software sênior na Atlassian, maior empresa de software australiana, avaliada em 18 bilhões de dólares. Por aqui, ele ficou famoso por ter escrito o código que deu origem ao “Gemidão do WhatsApp”, brincadeira que viralizou em 2017. Em junho do ano passado, ele recebeu a proposta que considerou irrecusável. </span></p>
+<p><span class="s2">Levou uma bolada em ações da empresa na contratação, ganha mais do que um desenvolvedor australiano (o salário médio anual é de cerca de 85.000 dólares no país) — e trabalha cerca de 8 horas por dia. “Não é aquela rotina de passar o dia inteiro escrevendo códigos. Parte do meu tempo é dedicada a desenvolver projetos com outros times”, diz o dev, que largou a faculdade de sistemas de informação depois de ter cursado apenas o primeiro ano. Líder de uma equipe de outros quatro desenvolvedores, ele recebe semanalmente duas ou três sondagens para trocar de emprego. Camargo encontrou no setor de tecnologia um ambiente diverso e inclusivo: ele é homossexual e tem síndrome de Asperger, condição dentro do espectro do autismo. “Aqui me sinto mais seguro”, diz. </span></p>
+<p><span class="s2">Que as empresas estrangeiras estejam em larga vantagem para levar os desenvolvedores brasileiros é uma questão cambial. Logo, cabe às empresas no país criar estratégias para treinar um número cada vez maior de programadores. Em 2017, ao decidir começar a usar robôs para desempenhar as tarefas repetitivas de seu centro de serviços compartilhados, a EDP convidou os cerca de 200 funcionários do departamento para se tornarem, eles próprios, os programadores dos novos colaboradores autômatos. Uma analista de folha de pagamentos e um auxiliar administrativo tornaram-se desenvolvedores após dois meses de curso, usando uma plataforma que não exige o conhecimento aprofundado de codificação. “Conseguimos provar, na prática, que a tecnologia pode ser uma ferramenta que libera as pessoas de trabalhos braçais para que possam executar tarefas mais criativas”, diz Luis Gouveia, diretor de pessoas, tecnologia e sociedade da EDP.</span></p>
+<hr />
+<h3><span style="color:#4200a6;"><b>REQUISITADOS E BEM PAGOS</b></span></h3>
+<p>Quem são e o que fazem as estrelas do mercado de trabalho no Brasil e no mundo | Fotos Germano Lüders</p>
+<div>
+<p><img data-attachment-id="3769676" data-permalink="https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/attachment/igor-2/" data-orig-file="https://abrilexame.files.wordpress.com/2020/02/igor.gif" data-orig-size="1000,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="igor" data-image-description="" data-medium-file="https://abrilexame.files.wordpress.com/2020/02/igor.gif?w=300" data-large-file="https://abrilexame.files.wordpress.com/2020/02/igor.gif?w=1000" class="alignnone wp-image-3769676 size-medium" src="https://abrilexame.files.wordpress.com/2020/02/igor.gif?w=300&#038;h=270" border="0" alt="" title="igor" width="300" height="270" data-restrict="false" data-portal-copyright="Germano Luders" data-image-caption="" data-image-title="" /></p>
+</div>
+<div></div>
+<div><span class="s1" style="color:#c1161c;"><span class="s1"><b><span style="color:#339966;"><br />
+JOVEM E DISPUTADO </span></b></span></span></div>
+<div class="wp-video" style="width:840px;">
+<p>Em três meses, Igor Silveira, de 19 anos, transformou o gosto por videogames em paixão por programação. Recém-formado no ensino médio, ele não sabia que carreira seguir até fazer um curso rápido de desenvolvedor de software. Terminou o treinamento com um emprego em uma consultoria. Se antes era ele quem distribuía seu currículo nas empresas, agora são os recrutadores que não param de procurá-lo. Recebe até três propostas de emprego por semana.</p>
+</div>
+<p>&nbsp;</p>
+<p><img data-attachment-id="3769683" data-permalink="https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/attachment/keila/" data-orig-file="https://abrilexame.files.wordpress.com/2020/02/keila.gif" data-orig-size="1000,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="KEILA" data-image-description="" data-medium-file="https://abrilexame.files.wordpress.com/2020/02/keila.gif?w=300" data-large-file="https://abrilexame.files.wordpress.com/2020/02/keila.gif?w=1000" class="alignnone wp-image-3769683 size-medium" src="https://abrilexame.files.wordpress.com/2020/02/keila.gif?w=300&#038;h=270" border="0" alt="" title="KEILA" width="300" height="270" data-restrict="false" data-portal-copyright="Germano Luders" data-image-caption="" data-image-title="" /></p>
+<div class="wp-video" style="width:840px;">
+<div class="wp-video" style="width:840px;">
+<p><span class="s1" style="color:#339966;"><b>ATIVISMO E VIDA CORPORATIVA</b></span></p>
+<p><span class="s1">Desde pequena, a baiana Keilla Menezes, de 35 anos, resolvia desafios de matemática com o pai engenheiro. Fez ciência da computação e demorou a encontrar sua área, o <i>front-end</i>, aquele profissional que desenvolve a interface do usuário. Sempre notou a falta de diversidade dentro das empresas e hoje carrega um título singular para si: a única mulher negra no mundo com certificação de Google Developer Expert em Angular.</span></p>
+<p><img data-attachment-id="3769686" data-permalink="https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/attachment/javaman/" data-orig-file="https://abrilexame.files.wordpress.com/2020/02/javaman.gif" data-orig-size="1000,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="JAVAMAN" data-image-description="" data-medium-file="https://abrilexame.files.wordpress.com/2020/02/javaman.gif?w=300" data-large-file="https://abrilexame.files.wordpress.com/2020/02/javaman.gif?w=1000" class="alignnone wp-image-3769686 size-medium" src="https://abrilexame.files.wordpress.com/2020/02/javaman.gif?w=300&#038;h=270" border="0" alt="" title="JAVAMAN" width="300" height="270" data-restrict="false" data-portal-copyright="Germano Luders" data-image-caption="" data-image-title="" /></p>
+<p><b style="color:#339966;font-size:16px;">VETERANO E MENTOR</b></p>
+<p>O brasiliense Bruno Souza, de 46 anos, é um dos pioneiros do uso da linguagem Java no Brasil, uma das mais populares no mundo. Não é para menos que se apresenta como o “Javaman”. Fundador de uma das maiores comunidades globais dedicadas a essa linguagem de programação, já recebeu prêmios internacionais pelos avanços conquistados. Souza divide hoje seu tempo entre a atividade de consultor para empresas e mentor das novas gerações de devs.</p>
+<div class="wp-video" style="width:840px;">
+<p><img data-attachment-id="3769688" data-permalink="https://exame.abril.com.br/revista-exame/temporada-de-caca-aos-devs/attachment/roberta/" data-orig-file="https://abrilexame.files.wordpress.com/2020/02/roberta.gif" data-orig-size="1000,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="roberta" data-image-description="" data-medium-file="https://abrilexame.files.wordpress.com/2020/02/roberta.gif?w=300" data-large-file="https://abrilexame.files.wordpress.com/2020/02/roberta.gif?w=1000" class="alignnone wp-image-3769688 size-medium" src="https://abrilexame.files.wordpress.com/2020/02/roberta.gif?w=300&#038;h=270" border="0" alt="" title="roberta" width="300" height="270" data-restrict="false" data-portal-copyright="Germano Luders" data-image-caption="" data-image-title="" /></p>
+<p><span class="s1" style="color:#339966;"><b>HOME OFFICE E SALÁRIO EM DÓLARES</b></span></p>
+<div class="wp-video" style="width:840px;">
+<p><span class="s1">Roberta Arcoverde, de 34 anos, é desenvolvedora de software há 12 anos e aprendeu a programar no curso de ciência da computação da Universidade Federal de Pernambuco. Há seis anos, passou em um processo seletivo disputado com outras 900 pessoas para trabalhar no site americano Stack Overflow. Apesar de receber diversas propostas para mudar de emprego, não pensa em deixar o conforto do trabalho remoto — e o salário em dólares — tão cedo.</span></p>
+<p><a href="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros3-4.png"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros3-5.png" border="0" alt="" width="" height="" /></a></p>
+<p><span class="s2">Num país com 53% da população economicamente ativa desempregada ou em funções informais, a programação é uma carreira potencial das mais chamativas. País afora cresce o número de cursos livres de programação. A Trybe, fundada há pouco mais de seis meses em São Paulo, oferece um curso de um ano de duração em desenvolvimento de software e permite ao aluno quitar o curso depois de ingressar no mercado. Do jeito tradicional, o curso custa 24.000 reais. Pagando depois de empregado, o valor sobe para até 36.000 reais — preferido por 90% dos alunos. “Se não conseguir um trabalho que remunere acima de 3.500 reais, não precisa nos pagar”, diz Matheus Goyas, cofundador da Trybe. </span></p>
+<p><span class="s2">Em menos de seis meses, a escola já iniciou três turmas de alunos e tem quase 150 estudantes matriculados. No último processo seletivo, em novembro, foram 5.000 candidatos para 100 vagas. Além de estudantes, o negócio está atraindo investidores. Depois de um aporte de 15 milhões de reais em agosto passado de investidores como o ex-presidente do Banco Central Armínio Fraga e da Joá Investimentos, fundo que tem o apresentador Luciano Huck entre os sócios, a Trybe finalizou em janeiro sua segunda rodada de captação, obtendo 42 milhões de re-ais de fundos como Atlantico, Canary, Global Founders Capital, e.Bricks, Maya e Norte, conforme apurado com exclusividade pela EXAME.</span></p>
+<figure class="wp-caption alignnone"><a href="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-7-4.jpg?quality=70&amp;strip=info&strip=info"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-7-5.jpg?quality=70&amp;strip=info&strip=info" border="0" alt="" width="" height="" /></a><figcaption class="wp-caption-text">Isabel Nasser, cofundadora da startup Kestraa: recém-formado considerou oferta de salário de 12.000 reais como um “insulto” | Alexandre Battibugli</figcaption></figure>
+<p><span class="s2">Ao finalmente conseguir contratar um talento, a empresa pode respirar aliviada, certo? Errado. Com companhias dispostas a oferecer salários altíssimos para conseguir um programador qualificado, é difícil reter os profissionais. Pesquisa do LinkedIn, em 2017, com sua base global de mais de 500 milhões de usuários, mostrou que a tecnologia é a área com maior rotatividade de profissionais (13,2%). A fábrica de software brasileira Lambda3, que tem entre os clientes o Banco Santander Brasil e fatura 15 milhões de reais, emprega 70 desenvolvedores entre os 100 profissionais e já demitiu clientes que estavam exigindo uma carga de trabalho exaustiva de seus times ou que apresentaram comportamentos machistas e homofóbicos com os colaboradores. “É tão difícil contratar e manter um bom profissional que eu prefiro perder um cliente na maior parte das vezes”, diz Victor Hugo Germano, sócio-fundador e presidente da Lambda3.</span></p>
+<figure class="wp-caption alignnone"><a href="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-9-4.jpg?quality=70&amp;strip=info&strip=info"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-9-5.jpg?quality=70&amp;strip=info&strip=info" border="0" alt="" width="" height="" /></a><figcaption class="wp-caption-text">Sede da Movile: escritórios para atrair desenvolvedores em polos de inovação e reduzir os 45 dias que leva para preencher uma vaga | Camila Fontana</figcaption></figure>
+<p><span class="s2">Essa é uma boa notícia da sofisticação desse mercado. As armas tendem a ir além do dinheiro puro e simples. Colocar um preço no trabalho do desenvolvedor é uma dor crescente. Diferentes cargos e níveis de experiência possuem remunerações que variam de 3.082 reais, para um analista de sistemas, a 25.152 reais, para o gerente de produto. Um salário realmente atraente pode ser, muitas vezes, financeiramente inviável. Porém, o que um dev mais pode valorizar, no final das contas, é fazer parte de uma equipe inspiradora e ter maior autonomia e oportunidades para novos desafios. </span></p>
+<p><span class="s2">No Brasil, a ThoughtWorks, consultoria global de tecnologia da informação, possui 739 funcionários e planeja contratar mais 140 desenvolvedores iniciantes por intermédio de seu programa Desenvolve, que atrai talentos com uma proposta irresistível: todos os contratados passam cinco semanas na Índia ou na China para aprender novas habilidades. De 2019 até o momento, as 70 vagas abertas tiveram mais de 3.900 candidatos, uma proporção de 40 interessados para cada contratado, e a empresa avalia a possibilidade de abrir uma unidade da universidade no Brasil. </span></p>
+<p><span class="s2">Os benefícios oferecidos no mercado são cada vez mais variados: dias extras de descanso no aniversário e no fim do ano, a abolição de códigos de vestimenta, licença-maternidade e paternidade estendidas, descontos e subsídios para cursos, home office, programas focados na saúde física e mental e até mesmo participação societária. “Buscamos desconstruir os conceitos de carreira mais tradicionais e lineares dentro de caixinhas e descrições de cargo. Conversamos sobre a jornada dos funcionários, conectando-as com desafios e trazendo suas expectativas pessoais como aliadas do negócio”, diz Grazi Mendes, diretora de pessoas na ThoughtWorks Brasil.</span></p>
+<p><a href="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros4-4.png"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros4-5.png" border="0" alt="" width="" height="" /></a></p>
+<p><span class="s2">Na difícil tarefa de como conquistar um dev, muitas empresas investem na diversidade para encontrar um programador para chamar de seu. No Brasil e no exterior, o mundo dos devs é essencialmente masculino. Em 2018, segundo dados da Brasscom, só 33% dos 845.479 profissionais de tecnologia do Brasil eram mulheres. A disparidade aumenta quando adicionamos o critério étnico — só 11% dos profissionais eram mulheres negras, pardas ou indígenas. Em agosto de 2019, a imobiliária digital QuintoAndar, em parceria com a escola Codenation, ofereceu um curso de programação gratuito para mulheres que tivessem alguma bagagem na área. </span></p>
+<p><span class="s2">Ao longo de dez semanas, 30 desenvolvedoras foram treinadas e, ao final do curso, 13 foram contratadas para a equipe de tecnologia da startup. “Dentro da companhia já havia uma paridade de 50% homens e 50% mulheres, mas o recorte na área de tecnologia mostrou um desequilíbrio, por isso pensamos em programas para nos ajudar a reverter essa situação”, diz Heloísa Vieira, diretora de atração de talentos da QuintoAndar. No ecossistema brasileiro, iniciativas como o Reprograma e o Programaria gratuitamente capacitam mulheres para trabalhar com desenvolvimento de software. “As empresas hoje nos procuram para financiar cursos. Desde que começamos, em 2016, formamos 16 turmas, 428 mulheres, 98% delas estão atuando na área de TI”, diz Mariel Reyes Milk, fundadora e presidente do Reprograma.</span></p>
+<p><a href="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros5-4.png"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/1204_mat-capa-quadros5-5.png" border="0" alt="" width="" height="" /></a></p>
+<p><span class="s2">A demanda pelos devs é alta, as ofertas são de encher os olhos — e os bolsos —, e é preciso formar novos profissionais. Isso está dado. Não há perspectiva, porém, de que o mundo se torne um lugar povoado apenas por profissionais que dominem os códigos dos computadores. Essa é a visão de Tim Ryan, presidente da unidade americana da auditoria britânica PwC e especializado no mercado de trabalho em tecnologia. “Acho que haverá uma parte crítica da população que terá de aprender a programar. Mas eu não vejo que todos terão de fazer isso”, diz Ryan. Isso significa que não é necessário colocar as crianças em escolas de codificação antes que aprendam o mínimo do conhecimento tradicional. </span></p>
+<p><span class="s2">Por outro lado, no futuro todos vão ter de entender um pouco como os programas de computador são construídos para pelo menos poder contratar os funcionários mais adequados nas empresas, explicar à equipe de tecnologia o que espera nos projetos, e acompanhar as mudanças do mundo. Em linhas gerais, vale a lógica usada atualmente para conhecimentos matemáticos. Saber as operações básicas e conseguir identificar padrões e incoerências é fundamental para milhares de funções. O mesmo vai valer para os códigos. Saber mais do que o colega ao lado, claro, vai ajudar mais do que atrapalhar. </span></p>
+<hr />
+<h3><span style="color:#c1161c;"><b>AS FALHAS NA FORMAÇÃO COMEÇAM NO BÁSICO</b></span></h3>
+<p><strong>Os adolescentes brasileiros têm notas baixas nos exames de matemática, ciência e leitura; os universitários não se saem melhor | </strong>Rodrigo Loureiro</p>
+<figure class="wp-caption alignnone"><a href="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-10-4.jpg?quality=70&amp;strip=info&strip=info"><img class="" src="https://abrilexame.files.wordpress.com/2020/02/mat-de-cp-10-5.jpg?quality=70&amp;strip=info&strip=info" border="0" alt="" width="" height="" /></a><figcaption class="wp-caption-text">Protestos contra o corte de verbas de pesquisa: retrato de um país em que o ensino não é prioridade | Roberto Vazquez/Futura Press</figcaption></figure>
+<p><span class="s1">Quase todos os problemas graves da economia brasileira têm a mesma explicação básica: falta educação. Melhorar a formação é a saída para o problema sistêmico da falta de profissionais para preencher as vagas no efervescente setor de tecnologia da informação. Mas os números mostram que as falhas começam muito antes de o estudante decidir qual carreira vai seguir. Em 2019, os resultados do Programa Internacional de Avaliação de Estudantes (Pisa, na sigla em inglês) mostraram que dois terços dos alunos brasileiros de 15 anos sabiam menos do que o essencial em matemática. </span></p>
+<p><span class="s1">Considerando também as áreas de leitura e ciência, apenas 2,5% dos estudantes atingiram notas de “alto desempenho” na prova. A média da Organização para Cooperação e Desenvolvimento Econômico (OCDE) é de 15,7%. Essa defasagem contamina o ensino superior. Em 2018, apenas 1,7% dos cursos universitários conseguiu nota máxima no Exame Nacional de Desempenho dos Estudantes (Enade). “O aprendizado não tem sido prioridade”, diz Priscila Cruz, presidente executiva do movimento Todos Pela Educação. “O Brasil não investe em primeira infância e isso acaba prejudicando a aprendizagem ao longo da trajetória escolar.” </span></p>
+<p><span class="s1">No governo Jair Bolsonaro, o Ministério da Educação está encolhendo. Em 2019, o bloqueio de 7,4 bilhões de reais no orçamento resultou no corte de 3.474 bolsas de pós-graduação para gerar uma economia anual de 50 milhões de reais. A execução orçamentária para o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), organização responsável por fomentar a pesquisa científica e a formação de pesquisadores no Brasil, foi de 1,2 bilhão em 2019, quase metade dos 2,3 bilhões de reais de 2013. “Economia de quê? É de conhecimento. A gente está andando para trás”, diz Helena Nader, vice-presidente da Academia Brasileira de Ciência. “É uma vergonha essa falta de visão estratégica.” Cada dia que se investe menos do que o necessário em educação, o Brasil fica mais para trás na corrida pelos empregos do futuro. </span></p>
+</div>
+</div>
+</div>
+</div>
+              <!-- adiciona categoria materia -->
+              
+              <!-- adiciona categoria materia -->
+																																																																																																																																																																															</section>
+													<section class="article-tags">
+								<span>
+									Notícias sobre								</span>
+								<a href="https://exame.abril.com.br/noticias-sobre/programadores/" rel="tag">Programadores</a><a href="https://exame.abril.com.br/noticias-sobre/servicos-de-informatica/" rel="tag">Serviços de informática</a><a href="https://exame.abril.com.br/noticias-sobre/software/" rel="tag">Software</a><a href="https://exame.abril.com.br/noticias-sobre/tecnologia-da-informacao/" rel="tag">Tecnologia da informação</a>							</section>
+						<div id="taboola-below-article-thumbnails"></div>
+<script>
+  window._taboola = window._taboola || [];
+  function pushTaboola(oEvent) {
+      if( ( ($(window).height() + 300 + $(document).scrollTop()) >= $('#taboola-below-article-thumbnails').offset().top ) && ( false === $('#piano_offer').is(':visible') ) ) {
+        _taboola.push({mode: 'alternating-thumbnails-a',container: 'taboola-below-article-thumbnails', placement: 'Below Article Thumbnails', target_type: 'mix'});
+        window.removeEventListener('scroll', pushTaboola);
+      }
+  }
+  window.addEventListener('scroll', pushTaboola);
+</script>
+						<section class="comments">
+													</section>
+						<div class="ad-sense" data-brand="exame"></div>					</article>
+						</div>
+		<div class="col-md-4">
+	    <aside class="sidebar">
+        <div class="sticky-combo">
+                        <div class="sidebar-front-page">
+                <div id="abril_home_latest_videos_widget-46" class="widget"><div class="widget-box manual-highlights sidebar-front-page " data-tb-region="Destaques (Manual) 46"><div class="widget-news "><ul class="widget-news-list"><li class="widget-news-item type-post " data-tb-region-item><a href="http://relatorios.exame.com.br/#/r/lp/1" class="last-news-thumb a-img" rel="bookmark">
+							
+							<img src="https://abrilexame.files.wordpress.com/2020/02/relatorio-anos-20-2020-02-18.jpg?quality=70&#038;strip=info&#038;w=165&#038;h=110&#038;crop=1" srcset="https://abrilexame.files.wordpress.com/2020/02/relatorio-anos-20-2020-02-18.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2020/02/relatorio-anos-20-2020-02-18.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2020/02/relatorio-anos-20-2020-02-18.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2020/02/relatorio-anos-20-2020-02-18.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(min-width: 991px) 230px, 165px" alt="Relatório EXAME &#8220;Os Estrondosos Anos 20&#8221;" class="widget-home-box-item-thumb" data-pin-nopin="true"></a><div class="widget-news-info"><a href="https://exame.abril.com.br/revista-exame/na-onda-digital/" class="widget-news-item-category">SEU DINHEIRO</a></a><span><a href="http://relatorios.exame.com.br/#/r/lp/1" class="">“Os estrondosos anos 20” – baixe o estudo grátis</a></span></div></li></ul></div></div></div><div id="ad_1-3" class="widget"><div class="ad-sidebar" id="ad-box-1"></div></div><div id="abril_newsletter_widget-7" class="widget"><div class="widget-newsletter newsletter-widget widget-box custom-title forms-builder-wrapper" id="sib_embed_signup">
+	<input type="hidden" id="sib_embed_signup_lang" value="pt">
+	<input type="hidden" id="sib_embed_invalid_email_message" value="Este e-mail não parece válido, tente novamente.">
+	<div id="sib_loading_gif_area" class="widget-newsletter-loading">
+		<img src="https://emails.abril.com.br/public/theme/version4/assets/images/loader_sblue.gif" class="widget-newsletter-loading-img">
+	</div>
+	<input type="hidden" name="primary_type" id="primary_type" value="email">
+	<div class="widget-newsletter-white-transparent"></div>
+
+			<div class="widget-newsletter-titles category-list">
+							<span class="widget-newsletter-title page-title" style="background-color: #c1161c">Newsletter gratuita</span>
+			
+							<span class="widget-newsletter-intro">As notícias mais importantes da manhã no seu e-mail, de segunda a sexta-feira</span>
+					</div>
+	
+	<div class="widget-newsletter-content with-border" style="background-color: #c1161c">
+		<span class="widget-newsletter-subtitle">Não perca nenhuma notícia.</span>
+		<span class="widget-newsletter-text">Inscreva-se em nossa newsletter gratuita.</span>
+		<form id="theform" class="widget-newsletter-form-style" action="" onsubmit="return false;">
+			<input type="hidden" name="js_id" id="js_id" value="5kwu">
+			<input type="hidden" name="listid" id="listid" value="4">
+			<input type="hidden" name="listid_sales" id="listid_sales" value="APIEvent-news_exame">
+			<input type="hidden" name="from_url" id="from_url" value="yes">
+			<input type="hidden" name="hdn_email_txt" id="hdn_email_txt" value="">
+			<div class="widget-newsletter-form-row checkbox-text">
+				<div>
+					<label for="ABRIL_OFFERS">
+						Aceito receber ocasionalmente ofertas especiais e de outros produtos e serviços do Grupo Abril.<br>
+						<input type="checkbox" name="ABRIL_OFFERS" id="ABRIL_OFFERS" class="widget-newsletter-input" value="TRUE">
+						<span class="widget-newsletter-checkbox"></span>
+					</label>
+					<a href="/politica-de-privacidade/" class="newsletter-privacy-link">Política de Privacidade</a>
+				</div>
+			</div>
+			<div class="widget-newsletter-form-row">
+				<div class="row">
+					<div class="col-xs-7 col-md-10 newsletter-widget-email-container">
+						<input id="email" class="widget-newsletter-input" type="email" name="email" value="" placeholder="E-mail">
+					</div>
+
+					<div class="col-xs-5 col-md-2 newsletter-widget-button-container">
+						<div class="widget-newsletter-button-box" data-type="success">
+							<button type="submit" class="widget-newsletter-button button" data-editfield="subscribe" disabled>Cadastrar</button>
+						</div>
+					</div>
+				</div>
+
+				<div class="widget-newsletter-button-box" style="display: none;">
+					<a href="https://abril.com.br/newsletter/exame" class="widget-newsletter-button button" style="text-transform: none;">Confira outras newsletters gratuitas da Abril</a>
+				</div>
+
+				<div class="sib-container"></div>
+			</div>
+		</form>
+	</div>
+</div>
+</div><div id="taboola-3" class="widget"><div id="taboola-organic-right-rail"></div>
+<script>window._taboola = window._taboola || []; _taboola.push({mode: 'organic-thumbnails-rr', container: 'taboola-organic-right-rail', placement: 'Organic Right Rail', target_type: 'mix'});</script>
+<div id="taboola-sponsored-right-rail"></div>
+<script>window._taboola = window._taboola || []; _taboola.push({mode: 'sponsored-thumbnails-rr', container: 'taboola-sponsored-right-rail', placement: 'Sponsored Right Rail', target_type: 'mix'});</script>
+</div><div id="ad_2-3" class="widget"><div class="ad-sidebar" id="ad-box-2"></div></div><div id="abril_assinatura_full_widget-3" class="widget">
+<div class="widget-abril-assinatura-full">
+	<div class="widget-cover-container">
+				<a href="https://www.assine.abril.com.br/portal/paginasEstaticas!showPromocao.action?codPromocao=sr_ex_land&#038;origem=sr_ex_botaocapa&#038;utm_source=sites&#038;utm_medium=sr&#038;utm_campaign=sr_ex_botaocapa_revista-exame_desktop" target="_blank">
+			<img src="https://abrilexame.files.wordpress.com/2020/02/capa-devs-code.jpg?quality=70&#038;strip=info&#038;w=264&#038;h=349&#038;crop=1" class="magazine-cover" data-pin-nopin="true">
+		</a>
+		
+		
+		<span class="magazine-read">
+							<span class="magazine-read-text">Leia também no</span>
+						<span class="magazine-read-icons">
+												<a href="" class="link">
+						<i class="icon-appleinc"></i>
+					</a>
+																<a href="" class="link">
+						<i class="icon-android"></i>
+					</a>
+																<a href="" class="link">
+						<i class="icon-tablet mobile"></i>
+					</a>
+										</span>
+		</span>
+
+	</div>
+	<div class="widget-magazine-info">
+		<span class="widget-magazine-title">Nas Bancas</span>
+		<span class="magazine-date">
+							<a href="https://exame.abril.com.br/edicoes/1204/">1204 <span class="magazine-edition-date">04/03/2020</span></a>
+					</span>
+		<div class="magazine-index-container">
+							<a href="https://exame.abril.com.br/edicoes/1204/" class="magazine-index">Acesse o índice</a>
+					</div>
+
+		<a href="https://www.assine.abril.com.br/portal/paginasEstaticas!showPromocao.action?codPromocao=sr_ex_land&#038;origem=sr_ex_botaocapa&#038;utm_source=sites&#038;utm_medium=sr&#038;utm_campaign=sr_ex_botaocapa_revista-exame_desktop" class="magazine-subscription" target="_blank">Assine</a>
+
+
+	</div>
+	
+	<span class="magazine-read">
+					<span class="magazine-read-text">Leia também no</span>
+				<span class="magazine-read-icons">
+									<a href="" class="link">
+					<i class="icon-appleinc"></i>
+				</a>
+												<a href="" class="link">
+					<i class="icon-android"></i>
+				</a>
+												<a href="" class="link">
+					<i class="icon-tablet mobile"></i>
+				</a>
+							</span>
+	</span>
+
+		<ul>
+			</ul>
+	</div>
+</div><div id="ad_3-3" class="widget"><div class="ad-sidebar" id="ad-box-3"></div></div>            </div>
+                    </div>
+    </aside>
+</div>	</div>
+</div>
+<footer class="footer" id="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="wrapper-referrers">
+					<div class="menu-sites-abril-container"><ul id="menu-sites-abril" class="referrers"><li id="menu-item-2420883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2420883"><a target="_blank" rel="noopener noreferrer" href="https://exame.abril.com.br/estilo-de-vida/" class="menu-image-title-after"><span class="menu-image-title">VIP</span></a></li>
+</ul></div>						<ul class="custom-columns">
+							<li class>
+								<li id="menu-item-2420888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2420888"><a href="https://exame.abril.com.br/como-desativar-adblock/" class="menu-image-title-after"><span class="menu-image-title">Como desativar o AdBlock</span></a></li>
+<li id="menu-item-2908676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2908676"><a href="https://exame.abril.com.br/newsletter/" class="menu-image-title-after"><span class="menu-image-title">Newsletter grátis</span></a></li>
+<li id="menu-item-2917012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2917012"><a href="http://mentoria.exame.com.br/" class="menu-image-title-after"><span class="menu-image-title">Mentoria PME</span></a></li>
+<li id="menu-item-2420889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2420889"><a href="https://exame.abril.com.br/termos-de-uso/" class="menu-image-title-after"><span class="menu-image-title">Termos de uso</span></a></li>
+							</li>
+						</ul>
+											<ul class="social-columns">
+							<li>
+								<span>SIGA</span>
+							</li>
+							<li id="menu-item-1146446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146446"><a href="https://www.facebook.com/Exame" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">Facebook</span></a></li>
+<li id="menu-item-1146447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146447"><a href="https://twitter.com/exame" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">Twitter</span></a></li>
+<li id="menu-item-1146449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146449"><a href="http://www.linkedin.com/company/exame-com" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">Linkedin</span></a></li>
+<li id="menu-item-1828868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1828868"><a href="https://www.youtube.com/user/portalexame" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">YouTube</span></a></li>
+<li id="menu-item-1146450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1146450"><a href="https://exame.abril.com.br/rss/" class="menu-image-title-after"><i class=""></i><span class="menu-image-title">RSS</span></a></li>
+						</ul>
+									</div>
+				<div class="abril-logo">
+					<a href="https://www.abril.com.br" target="_blank">
+						<img src="https://s2.wp.com/wp-content/themes/vip/abril-master/inc/images/logo-grupo-abril.png">
+					</a>
+				</div>
+				<div class="copyright">Copyright &copy; Abril Mídia S A. Todos os direitos reservados.</div>
+				<div class="privacy"><a href="/politica-de-privacidade">Política de Privacidade</a></div>
+				<div class="wordpress">Powered by <a href="https://wpvip.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=exame.abril.com.br" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></div>
+			</div>
+		</div>
+	</div>
+</footer>
+	<div id="abrAD_dhtml"></div>
+<!-- wpcom_wp_footer -->
+	<div style="display:none">
+	</div>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Adicione suas ideias aqui... (opcional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Publicar em</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancelar</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblogar Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="114407448" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://exame.abril.com.br" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="EXAME" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="3985af35ad" /><input type="hidden" name="_wp_http_referer" value="/revista-exame/temporada-de-caca-aos-devs/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/_static/??/wp-content/themes/vip/abril-master/css/vendor/magnific-popup.css,/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1563361695j&cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJytjssOgkAMRX/IsTFxgiyM31KYRoqdMs4D+HzxQWLYuHHZ25t7DkzBtINm0gy5I08JRg6ATWQxHlOmCEHKlTV9wrWdSB1rI4WgT1/Xvk87+PuqGVHYYeZBt4Cl52jklsK8ffliVozwbbG4FyrUoTqh+FOUZvQvDQxBuH3DPT8FLv58sNWxrk7W1v0DBAV6AQ=='></script>
+<script src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydz8EOwiAQBNAfkq4Ya7wYv4WWtS7CdoWl1b+XxKsXe5tM8pIZWMWMMyuyQqpGYp2IC+hKqpjNEN34GCh7I4TAuGBG9sRTF8oO/rHy2+kdExZYSMANmaJJrjQMoXVNzC09K+Z3l4g3WyeCLm/mt4ivEsm3T98V13Sxx5Pd2/7cH8IHrvN42w=='></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/vendor/lazysizes.js?m=1462552707h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/vendor/photoswipe.min.js?m=1488991108h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/vendor/photoswipe-ui-default.min.js?m=1488991108h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/vendor/mustache.min.js?m=1488991108h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/videos-abril-call-player.js?m=1540487483h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/videos-abril-player-vars.js?m=1540487483h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/videos-abril-call-sambatech.js?m=1540487483h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/vendor/owl.carousel.min.js?m=1572454946h&#038;ver=5.4-beta1-47314' defer></script>
+<script>
+var abrilAnuncio = null;
+</script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/application.js?m=1579206809h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/vendor/jquery.lazysizes.min.js?m=1461015852h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/vendor/jquery.magnific-popup.min.js?m=1462552707h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://s2.wp.com/wp-content/themes/vip/abril-master/js/gallery.min.js?m=1540487483h&#038;ver=5.4-beta1-47314' defer></script>
+<script src='https://id.abril.com.br/abrID?ver=5.4-beta1-47314'></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      if (typeof abrID !== "undefined") {
+        abrID.init({"wpAbrilIDUrl" : "https://id.abril.com.br/"});
+      }
+    });
+  
+</script>
+<script src='//static.chartbeat.com/js/chartbeat_mab.js?ver=5.4-beta1-47314' defer></script>
+<script src='//static.chartbeat.com/js/chartbeat.js?ver=5.4-beta1-47314' defer></script>
+<script>
+var chartbeat_params = {"uid":"56007","domain":"exame.abril.com.br","categories":"REVISTA EXAME","post_author":"Carolina Ingizza, Denyse Godoy, Fabiane Stefano, Lu\u00edsa Granato e Rodrigo Loureiro","type":"Mat\u00e9ria"};
+</script>
+<script>
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+</script>
+<script>
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"pt","ajaxurl":"https:\/\/exame.abril.com.br\/wp-admin\/admin-ajax.php","nonce":"9c1021e8f2","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Coment\u00e1rio","post_comment":"Publicar coment\u00e1rio","write_comment":"Escreva um Coment\u00e1rio","loading_comments":"Carregando coment\u00e1rios...","download_original":"Visualizar tamanho original <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Certifique-se de enviar algum texto com o seu coment\u00e1rio.","no_comment_email":"Informe um endere\u00e7o de email para comentar.","no_comment_author":"Forne\u00e7a seu nome para comentar.","comment_post_error":"Desculpe, mas ocorreu um erro ao postar seu coment\u00e1rio. Tente novamente mais tarde.","comment_approved":"Seu coment\u00e1rio foi aprovado.","comment_unapproved":"Seu coment\u00e1rio est\u00e1 aguardando modera\u00e7\u00e3o.","camera":"C\u00e2mera","aperture":"Abertura","shutter_speed":"Velocidade do Obturador","focal_length":"Comprimento Focal","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/abrilexame.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fexame.abril.com.br%2Frevista-exame%2Ftemporada-de-caca-aos-devs%2F","blog_id":"114407448","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Nome<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Site<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblogar","reblogged":"Re-blogado","reblog_add_thoughts":"Adicione suas ideias aqui... (opcional)","reblogging":"Reblogando...","post_reblog":"Post Reblog","stats_query_args":"blog=114407448&v=wpcom&tz=-3&user_id=0&subd=abrilexame","is_public":"1","reblog_enabled":""};
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVjksOwjAMRC9EMCBQ1QXiLG4wxSFJg+OAentSfmKBkFjZGs3MG7gmY4eoFBX0SIEyXDgBdsLeBMxKAi6DPaJoR6iT+cD93OUZfERDMcmXnmOGlZkK3L3HYEQ/Ktv8I4D7wNF0KPDg1c8MFxLhfV3z1v5sUEF7emM5Wl+murorJ47fdHcuJOPzzD9dX5AWZSiZPDjSVEnmJdTMLmyXm2bdLJq2bd0NKGyDow=='></script>
+<script async src='https://news.google.com/swg/js/v1/swg.js'></script>
+<script>
+var wp_piano_vars = {"is_single":"1","is_page":"0","is_home":"0","get_the_category":[{"term_id":772999,"name":"REVISTA EXAME","slug":"revista-exame","term_group":0,"term_taxonomy_id":57,"taxonomy":"category","description":"EXAME \u00e9 a mais importante revista de neg\u00f3cios do Brasil. Suas an\u00e1lises e reportagens cobrem economia, pol\u00edtica e tend\u00eancias globais, al\u00e9m de neg\u00f3cios.","parent":0,"count":5279,"filter":"raw","cat_ID":772999,"category_count":5279,"category_description":"EXAME \u00e9 a mais importante revista de neg\u00f3cios do Brasil. Suas an\u00e1lises e reportagens cobrem economia, pol\u00edtica e tend\u00eancias globais, al\u00e9m de neg\u00f3cios.","cat_name":"REVISTA EXAME","category_nicename":"revista-exame","category_parent":0}],"get_the_tags":[{"term_id":271988,"name":"Programadores","slug":"programadores","term_group":0,"term_taxonomy_id":2201,"taxonomy":"post_tag","description":"","parent":0,"count":92,"filter":"raw"},{"term_id":13032026,"name":"Servi\u00e7os de inform\u00e1tica","slug":"servicos-de-informatica","term_group":0,"term_taxonomy_id":2713,"taxonomy":"post_tag","description":"","parent":0,"count":82,"filter":"raw"},{"term_id":581,"name":"Software","slug":"software","term_group":0,"term_taxonomy_id":1924,"taxonomy":"post_tag","description":"","parent":0,"count":1728,"filter":"raw"},{"term_id":193511,"name":"Tecnologia da informa\u00e7\u00e3o","slug":"tecnologia-da-informacao","term_group":0,"term_taxonomy_id":391,"taxonomy":"post_tag","description":"","parent":0,"count":12006,"filter":"raw"}],"setContentCreated":"2020-02-27T05:30:38","setContentAuthor":"Carolina Ingizza, Denyse Godoy, Fabiane Stefano, Lu\u00edsa Granato e Rodrigo Loureiro","setContentSection":["REVISTA EXAME"],"piano_tags":["Programadores","Servi\u00e7os de inform\u00e1tica","Software","Tecnologia da informa\u00e7\u00e3o","type:content"],"tipo_paywall":"closed","blog_id":"","setContentIsNative":"0","piano_slug_faq_page":"https:\/\/exame.abril.com.br\/faq","piano_brand":"exame","piano_env":"experience","piano_aid":"3vxSO5Sezi","piano_home_url":"https:\/\/exame.abril.com.br","piano_show_login":"1","piano_type":"paywall"};
+var custom_wp = {"link_site":"https:\/\/exame.abril.com.br","url_logotipo":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/abril-exame\/inc\/images\/logo.svg","color_top":"#c1161c","site_title":"EXAME - Neg\u00f3cios, economia, tecnologia e carreira","brand":"exame","environment":"experience","is_single":"1"};
+</script>
+<script type='text/javascript' src='https://s2.wp.com/wp-content/themes/vip/abril-plugins/abril-piano/js/abril-piano-paywall.min.js?m=1581507238h'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?60" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'114407448','blog_tz':'-3','user_lang':'pt-br','blog_lang':'pt-br','user_id':'0'}]);
+_stq.push(['view', {'blog':'114407448','v':'wpcom','tz':'-3','user_id':'0','post':'3768283','subd':'abrilexame'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=114407448&v=wpcomvt&tz=-3&user_id=0&post=3768283&subd=abrilexame&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTctS3VLOWpiYzEmRFNddS1iLUduRl1pdkUwUWwvazFiUHc3Xzg9LC1bRFV2fEdDLE9FaFIvLDlFdzJHeXUxT3YuWyV1QWJzaXRuK19CYVtJSEVKUVUyajc3V3E9MUtmJkZEdE93QTU5TW9dTlI4S1UtW3lFJXNoP1Q9dDRjX2pXNXJidkRNUlRkdERFY0VfaVFoalJRMWlteU4yJWFQQ2FRLUlTY2V4L2lbPWg2OExGZXNPfDksS2Z+Z35kJmRJSTVWN2k='}]);
+_stq.push([ 'clickTrackerInit', '114407448', '3768283' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+    <script>
+        var bannerTime = 5000;
+            abrConfSite = {
+            "adsTargets": "editorias=REVISTA EXAME;tags=Programadores, Servi\u00e7os de inform\u00e1tica, Software, Tecnologia da informa\u00e7\u00e3o",
+            "abrAdsArea": "exame\/revista-exame"        }
+            if($(window).width() < 991) {
+            abrConfSite.abrAdMap = "https://s2.wp.com/wp-content/themes/vip/abril-master/js/ads/ads_master_smartphone.json";
+        } else {
+            abrConfSite.abrAdMap = "https://s2.wp.com/wp-content/themes/vip/abril-master/js/ads/ads_master.json";
+        }
+    </script>
+        <script type='text/javascript' src="https://s2.wp.com/wp-content/themes/vip/abril-master/js/prebid.min.js?v-abrad=7.26.2"></script>
+    <script type='text/javascript' src="https://s2.wp.com/wp-content/themes/vip/abril-master/js/abrad.min.js?v=7.26.2"></script>
+	<script type="text/javascript">window._taboola = window._taboola || []; _taboola.push({flush: true});</script>
+</body>
+</html>
+<!--
+	generated 62 seconds ago
+	generated in 0.307 seconds
+	served from batcache in 0.004 seconds
+	expires in 238 seconds
+-->
+
