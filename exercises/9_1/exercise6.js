@@ -63,26 +63,10 @@ const books = [
   },
 ];
 
-function smallerName() {
-  let nameBook;
- // escreva aqui o seu código
-   
-    books.forEach((element,index) => {
-      while(index  < books.length) {
-        index = index + 1;
-        books.length -= 1;
-        console.log(books[index-1].name.length + "aqui");
-        if ( books[index-1].name.length < books[index-1+1].name.length) {
-         console.log(books);
-         nameBook = books[index].name;
-         }  
-       } 
-  });
+const expected_result = false
 
-  // Variável nameBook que receberá o valor do menor nome;
-  return nameBook;
+function everyoneWasBornOnSecXX() {
+  // escreva seu código aqui
 }
 
-smallerName();
-
-/* assert.equal(smallerName(), 'Duna'); */
+assert.equal(everyoneWasBornOnSecXX(), expected_result);
