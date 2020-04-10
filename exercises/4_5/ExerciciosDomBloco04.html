@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 4.5</title>
+    <style>
+      div {
+        border-color: black;
+        border-style: solid;
+      }
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+
+      // COLOQUE SEU CÓDIGO AQUI
+
+      //Exercicio 01 Dom
+
+      let body = document.getElementsByTagName("body");
+      let h1 = document.createElement("h1");
+      h1.innerText="Exercício 4.5 - Javascript DOM";
+      body[0].append(h1);
+      
+      //Exercicio 02 Dom
+       body[0].append(document.createElement("div"));
+       let div1 = body[0].childNodes;
+       
+       div1[3].setAttribute("class", "main-content");
+
+       //Exercicio 03 Dom
+       let divFilho = document.createElement("div");
+       divFilho.setAttribute("class","center-content");
+       div1[3].append(divFilho);
+
+      //Exercicio 04 Dom
+      let para = document.createElement("p");
+      para.innerText="Este é um paragrafo inserido via javascript!";
+      divFilho.appendChild(para);
+      console.log(body[0]);
+
+       //Exercicio 05 Dom
+
+       let divFilho2 = document.createElement("div");
+       divFilho2.setAttribute("class","left-content");
+       div1[3].append(divFilho2);
+
+         //Exercicio 06 Dom
+
+         let divFilho3 = document.createElement("div");
+       divFilho3.setAttribute("class","right-content");
+       div1[3].append(divFilho3);
+
+       //Exercicio 07 Dom 
+       let img = document.createElement("img");
+       img.setAttribute("src","https://picsum.photos/200");
+       img.setAttribute("class","small-image");
+       divFilho2.append(img);
+
+
+     //Exercicio 08 Dom
+     let ulist = document.createElement("ul");
+    let itemlista1 = document.createElement("li");
+    let itemlista2 = document.createElement("li");
+
+    let itemlista3 = document.createElement("li");
+    let itemlista4 = document.createElement("li");
+
+    let itemlista5 = document.createElement("li");
+    let itemlista6 = document.createElement("li");
+
+    let itemlista7 = document.createElement("li");
+    let itemlista8 = document.createElement("li");
+
+    let itemlista9 = document.createElement("li");
+    let itemlista10 = document.createElement("li");
+
+    itemlista1.innerText="Um";
+    itemlista2.innerText="Dois";
+    itemlista3.innerText="Três";
+    itemlista4.innerText="Quatro";
+    itemlista5.innerText="Cinco";
+    itemlista6.innerText="Seis";
+    itemlista7.innerText="Sete";
+    itemlista8.innerText="Oito";
+    itemlista9.innerText="Nove";
+    itemlista10.innerText="Dez";
+   
+    ulist.appendChild(itemlista1);
+    ulist.appendChild(itemlista2);
+    ulist.appendChild(itemlista3);
+    ulist.appendChild(itemlista4);
+    ulist.appendChild(itemlista5);
+    ulist.appendChild(itemlista6);
+    ulist.appendChild(itemlista7);
+    ulist.appendChild(itemlista8);
+    ulist.appendChild(itemlista9);
+    ulist.appendChild(itemlista10);
+   
+    divFilho3.append(ulist);
+
+    //Exercicio 9 Dom 
+    header3 = document.createElement("h3");
+    div1[3].append(document.createElement("h3"));
+    div1[3].append(document.createElement("h3"));
+    div1[3].append(document.createElement("h3"));
+    
+
+    //Exercicio 01 alteração e remoção
+
+    div1[2].setAttribute("class","title");
+
+    //Exercicio 02 alteração e remoção
+
+    let h3 = div1[3].getElementsByTagName("h3");
+    console.log(h3);
+    h3[0].setAttribute("class","description");
+    h3[1].setAttribute("class","description");
+    h3[2].setAttribute("class","description");
+    
+        //Exercicio 03 alteração e remoção
+    div1[3].removeChild(divFilho2);
+
+ //Exercicio 04 alteração e remoção
+    divFilho3.style.marginRight="auto";
+
+ //Exercicio 05 alteração e remoção
+  div1[3].style.backgroundColor="green";
+
+   //Exercicio 06 alteração e remoção
+   ulist.removeChild(itemlista10);
+   ulist.removeChild(itemlista9);
+
+    </script>
+  </body>
+</html>
