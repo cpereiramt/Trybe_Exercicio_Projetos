@@ -6,6 +6,7 @@ const Animals = [
   
   const findAnimalByName = (name) => {
      // Adicione o código aqui.
+    
   } 
   
   const getAnimal = (name) => {
