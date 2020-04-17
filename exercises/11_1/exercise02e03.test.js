@@ -8,8 +8,7 @@ const users = {
       return new Promise((resolve, reject) => {
           if (users[id]) {
             return resolve(users[id]);
-          }
-    
+          }    
           return reject({ error: 'User with ' + id + ' not found.' });
       });
     }
@@ -39,7 +38,7 @@ const users = {
       test('Testando exercicio 02 resolve', async () => {
         expect.assertions(1);
        const user = await findUserById(4); 
-          expect(user).toEqual({ name: 'Mark' });        
+          expect(user).toEqual({ name: 'Mark' });     
         
       });
 

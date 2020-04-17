@@ -4,14 +4,25 @@ const Animals = [
     { name: 'Preguiça', age: 5, type: 'Cat' },
   ];
   
+  //Porque isso funciona com parenteses, mas com chaves não passa .
   const findAnimalByName = (name) => {
-     // Adicione o código aqui.
-    
-  } 
+   return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        const animal = Animals.find((animal) => animal.name === name);
+        if (animal) {
+          return resolve(animal);
+        }
+        const messageError = 'Nenhum animal com esse nome!'
+        return reject(messageError);
+      }, 100);
+    })
+  }
   
   const getAnimal = (name) => {
-    // Adicione o código aqui.
+    return findAnimalByName(name)
+      .then(animal => animal)
   }
+    
   // ---------------------
   
   describe('Testando promise - findAnimalByName', () => {
