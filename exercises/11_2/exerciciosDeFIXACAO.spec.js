@@ -18,3 +18,22 @@ test('testando se isDivisible executa randomNumber2() pelo menos uma vez', () =>
 test('testando o retorno true na função isDivisible', () => {
   expect(isDivisible2(randomNumber2())).toBe(true);    
 })
+
+test('test se o random retorna 4', () => {
+  randomNumber2.mockReturnValueOnce(4);
+  expect(randomNumber2()).toBe(4);
+})
+
+test('test se o random retorna 5', () => {
+    randomNumber2.mockReturnValueOnce(5);
+    expect(randomNumber2()).toBe(5);
+  })
+
+  test('test se o random retorna 10', () => {
+    randomNumber2.mockReturnValue(10);
+    expect(randomNumber2()).toBe(10);
+  })
+
+  test('test se o random retorna 10 de novo', () => {
+    expect(randomNumber2()).toBe(10);
+  })
