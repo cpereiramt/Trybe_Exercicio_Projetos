@@ -1,0 +1,24 @@
+.pokemon-list{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.pokemon {
+   display: flex;
+   border: 1px rgb(126, 122, 122) solid;
+   margin: 30px ;
+   padding: 20px;  
+   border-radius: 5%;
+}
+
+.pokemon-labels {
+  padding-right:170px;
+}
+
+.pokemon-image {
+  align-items: flex-end;
+  max-width:100%; 
+  height:auto; 
+
+}
