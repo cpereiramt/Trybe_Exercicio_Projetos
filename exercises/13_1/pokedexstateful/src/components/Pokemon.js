@@ -8,18 +8,20 @@ class Pokemon extends React.Component {
  
 
      render() {
+       console.log(this.props.data)
        return (
+          
             <div className='pokemon'>
           <div className='pokemon-labels'>            
-          <label>Name: {this.props.data[0].name} </label>
+          <label>Name: {this.props.data.name} </label>
           <br />
-          <label>Type:  {this.props.data[0].type} </label>
+          <label>Type: {this.props.data.type}  </label>
           <br />
-          <label>Weight:  {this.props.data[0].averageWeight.value} {this.props.data[0].averageWeight.measurementUnit}</label>
+       <label>Weight: {this.props.data.averageWeight.value} {this.props.data.averageWeight.measurementUnit} </label>
           <br />
           </div>
           <div className='pokemon-image'>
-          <img className="imgPokemon" src={this.props.data[0].image} alt={`id from pokemon` + this.props.data[0]}></img>  
+          <img className="imgPokemon" src={this.props.data.image} alt="pokemon list"></img>  
           </div>
           </div>
             )

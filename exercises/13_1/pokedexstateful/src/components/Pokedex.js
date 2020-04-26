@@ -8,21 +8,28 @@ class Pokedex extends React.Component {
     super(props);
     this.state = {
       pokemons : props.data,
-      index : 0
+      index : 0,
+      currentElement:this.props.data[0]
     }
    } 
    
    navegaPokemons = () => {
-     while(this.state.pokemons.length > this.state.index){
-      console.log(this.state.index,"indice ");
-      console.log(this.state.pokemons, "pokemons");
-     }
-   }
-   
+   if(this.state.index < this.state.pokemons.length - 1) {
+    this.setState((state, props) => ({
+      index: state.index + 1
+    }));  
+   this.setState({currentElement:this.state.pokemons[this.state.index]}) 
+
+   } else {
+    this.setState({index: 0})
+    this.setState({currentElement:this.state.pokemons[this.state.index]})
+    
+   }   
+  }   
      render () {
       return (
         <div className="pokemon-container">
-        <Pokemon data={this.state.pokemons}/>
+        <Pokemon data={this.state.currentElement}/>
         <Button event={this.navegaPokemons}/>
        </div>
     )
