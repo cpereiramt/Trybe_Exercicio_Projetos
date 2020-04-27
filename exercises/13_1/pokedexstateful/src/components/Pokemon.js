@@ -6,14 +6,13 @@ import './pokemon.css';
 
 class Pokemon extends React.Component {
  
+   
 
      render() {
-      /*   this.props.data.forEach(element => {
-         console.log(element.name)
-       }) */
-       return (          
+     
+      return (          
             <div className='pokemon'>
-         {/*  <div className='pokemon-labels'>            
+          <div className='pokemon-labels'>            
           <label>Name: {this.props.data.name} </label>
           <br />
           <label>Type: {this.props.data.type}  </label>
@@ -22,8 +21,8 @@ class Pokemon extends React.Component {
           <br />
           </div>
           <div className='pokemon-image'>
-          <img className="imgPokemon" src={this.props.data.image} alt="pokemon list"></img>  
-          </div> */}
+          <img className="imgPokemon" src={this.props.data.image} alt="pokemon list"></img> 
+          </div>
           </div>
             )
       }

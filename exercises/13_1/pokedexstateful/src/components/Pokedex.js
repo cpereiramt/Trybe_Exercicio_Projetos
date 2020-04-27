@@ -10,16 +10,24 @@ class Pokedex extends React.Component {
     this.state = {
       pokemons : props.data,
       index : 0,
-      currentElements:'',
-      pokemonsFiltrados:[props.data]
+      currentElements: props.data[0],
+      pokemonsFiltrados:props.data,
+      typeselected:"all"
     }
    } 
    
+   componentWillMount(){
+     this.filtraPokemon(this.state.typeselected)
+  }
+
    filtraPokemon = (Type) => {
      if(Type === "all") {
-      this.setState({pokemonsFiltrados:this.props.data})
+      this.setState({typeselected:Type})
+     return this.setState({pokemonsFiltrados:this.state.pokemons})
      }
+     
     this.setState({pokemonsFiltrados:this.state.pokemons.filter(element => element.type === Type)})
+    this.setState({typeselected:Type})
    }
 
    navegaPokemons = () => {
@@ -27,7 +35,8 @@ class Pokedex extends React.Component {
     this.setState((state) => ({
       index: state.index + 1
     }));  
-   this.setState({currentElements:this.state.pokemonsFiltrados[this.state.index]}) 
+   this.setState({currentElements:this.state.pokemonsFiltrados[this.state.index]})
+   console.log(this.state.typeselected)
 
    } else {
     this.setState({index: 0})
@@ -37,7 +46,6 @@ class Pokedex extends React.Component {
      render () {
       return (
         <div className="pokemon-container">
-          {console.log(this.state.currentElements)}
         <Pokemon data={this.state.currentElements}/>
         <ButtonNext navegar={this.navegaPokemons} name="Proximo"/>
         <ButtonPokemonType filtrar={this.filtraPokemon} name="Fire"/>
