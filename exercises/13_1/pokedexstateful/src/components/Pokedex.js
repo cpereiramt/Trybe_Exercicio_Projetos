@@ -26,9 +26,11 @@ class Pokedex extends React.Component {
      this.uniqueTypes = [...this.state.pokemonsType]
      if(Type === "all") {
       this.setState({typeselected:Type})
+      this.setState({index:0})
       return  this.setState({pokemonsFiltrados:this.state.pokemons})
           
     } else if (this.uniqueTypes.includes(Type)){
+      this.setState({index:0})
       this.setState({typeselected:Type})
       console.log(this.state.typeselected)
       this.setState({pokemonsFiltrados:this.state.pokemons.filter(element => element.type === Type)})
@@ -36,17 +38,15 @@ class Pokedex extends React.Component {
    }
 
    navegaPokemons = () => {
-   if(this.state.index < this.state.pokemonsFiltrados.length - 1) {
-    this.setState((state) => ({
-      index: state.index + 1
-    }));  
+   if(this.state.index < this.state.pokemonsFiltrados.length - 1 ) {
    this.setState({currentElements:this.state.pokemonsFiltrados[this.state.index]})
-   console.log(this.state.index)
-
-   } else {
+   this.setState((state) => ({
+    index: state.index + 1
+  }))
+} else {
     this.setState({index: 0})
     this.setState({currentElements:this.state.pokemonsFiltrados[this.state.index]})
-    console.log(this.state.index)  
+    
    }   
   }   
      render () {
