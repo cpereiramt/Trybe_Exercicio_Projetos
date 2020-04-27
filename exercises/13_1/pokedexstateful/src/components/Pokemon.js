@@ -10,8 +10,10 @@ class Pokemon extends React.Component {
 
      render() {
      
-      return (          
-            <div className='pokemon'>
+      return (
+      
+        
+          <div className='pokemon'>
           <div className='pokemon-labels'>            
           <label>Name: {this.props.data.name} </label>
           <br />

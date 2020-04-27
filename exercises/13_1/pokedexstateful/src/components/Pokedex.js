@@ -23,13 +23,16 @@ class Pokedex extends React.Component {
   }
 
    filtraPokemon = (Type) => {
+     this.uniqueTypes = [...this.state.pokemonsType]
      if(Type === "all") {
       this.setState({typeselected:Type})
-     return this.setState({pokemonsFiltrados:this.state.pokemons})
-     }
-     
-    this.setState({pokemonsFiltrados:this.state.pokemons.filter(element => element.type === Type)})
-    this.setState({typeselected:Type})
+      return  this.setState({pokemonsFiltrados:this.state.pokemons})
+          
+    } else if (this.uniqueTypes.includes(Type)){
+      this.setState({typeselected:Type})
+      console.log(this.state.typeselected)
+      this.setState({pokemonsFiltrados:this.state.pokemons.filter(element => element.type === Type)})
+     } 
    }
 
    navegaPokemons = () => {
@@ -38,11 +41,12 @@ class Pokedex extends React.Component {
       index: state.index + 1
     }));  
    this.setState({currentElements:this.state.pokemonsFiltrados[this.state.index]})
-   console.log(this.state.typeselected)
+   console.log(this.state.index)
 
    } else {
     this.setState({index: 0})
-    this.setState({currentElements:this.state.pokemonsFiltrados[this.state.index]})    
+    this.setState({currentElements:this.state.pokemonsFiltrados[this.state.index]})
+    console.log(this.state.index)  
    }   
   }   
      render () {
@@ -52,7 +56,7 @@ class Pokedex extends React.Component {
         <div className="pokemon-container">
         <Pokemon data={this.state.currentElements}/>
         <ButtonNext navegar={this.navegaPokemons} name="Proximo"/>
-        {uniqueTypes.map(element => <ButtonPokemonType filtrar={this.filtraPokemon} name={element}/>)}
+        {uniqueTypes.map(element => <ButtonPokemonType key={element} filtrar={this.filtraPokemon} name={element}/>)}
         <ButtonPokemonType filtrar={this.filtraPokemon} name="all"/>      
        </div>
     )
