@@ -12,12 +12,14 @@ class Pokedex extends React.Component {
       index : 0,
       currentElements: props.data[0],
       pokemonsFiltrados:props.data,
-      typeselected:"all"
+      typeselected:"all",
+      pokemonsType: new Set()
     }
    } 
-   
+   uniqueTypes = []
    componentWillMount(){
-     this.filtraPokemon(this.state.typeselected)
+     this.filtraPokemon(this.state.pokemons.typeselected)
+     this.state.pokemons.map(element => this.setState(this.state.pokemonsType.add(element.type)))    
   }
 
    filtraPokemon = (Type) => {
@@ -44,12 +46,13 @@ class Pokedex extends React.Component {
    }   
   }   
      render () {
+     let uniqueTypes = [];
+      uniqueTypes = [...this.state.pokemonsType]
       return (
         <div className="pokemon-container">
         <Pokemon data={this.state.currentElements}/>
         <ButtonNext navegar={this.navegaPokemons} name="Proximo"/>
-        <ButtonPokemonType filtrar={this.filtraPokemon} name="Fire"/>
-        <ButtonPokemonType filtrar={this.filtraPokemon} name="Psychic"/>
+        {uniqueTypes.map(element => <ButtonPokemonType filtrar={this.filtraPokemon} name={element}/>)}
         <ButtonPokemonType filtrar={this.filtraPokemon} name="all"/>      
        </div>
     )
