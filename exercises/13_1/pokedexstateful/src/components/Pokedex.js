@@ -18,7 +18,7 @@ class Pokedex extends React.Component {
    } 
    uniqueTypes = []
    componentWillMount(){
-     this.filtraPokemon(this.state.pokemons.typeselected)
+     this.filtraPokemon(this.state.typeselected)
      this.state.pokemons.map(element => this.setState(this.state.pokemonsType.add(element.type)))    
   }
 
