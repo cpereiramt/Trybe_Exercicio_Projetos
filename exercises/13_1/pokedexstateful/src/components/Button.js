@@ -1,13 +1,13 @@
 import React from 'react';
 
-class Button extends React.Component {
+class ButtonNext extends React.Component {
   render() {
-    return <button onClick={this.props.event}>
-           Proximo 
-          </button >
+    return <button onClick={this.props.navegar}>
+           {this.props.name} 
+           </button >
  
   }
 }
 
 
-export default Button;
+export default ButtonNext;
