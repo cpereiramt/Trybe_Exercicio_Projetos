@@ -1,0 +1,165 @@
+.top-bar {
+  align-items: center;
+  background-color: #3b5998;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  height: 100px;
+  justify-content: space-around;
+  line-height: 6pt;
+  width: 100%;
+}
+
+a {
+  color: #9cb4d8;
+}
+
+#abra_conta{
+ margin-bottom: -10px;
+
+}
+
+h1{
+font-size: 36px;
+
+}
+section {
+  background-color: #e9ebee;
+  display: flex;
+  font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+  justify-content: flex-start;
+  
+
+}
+
+input, select {
+  font-size: 15pt;
+  margin: 5px 5px 5px 0;
+}
+
+.blocoEsq {
+  color: #3b5998;
+  margin-top: -80px ;
+  margin-left: 50px ;  
+  padding: 80px 0;
+  width: 65%;
+}
+.blocoEsq p {
+  font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  color: rgb(36, 66, 131);
+  margin-left: 25px;
+  margin-top: 50px;
+  margin-bottom: -70px;
+  font-weight: 900;
+  text-overflow: initial;
+  
+}
+
+.blocoDir {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+  margin-right: 100px;
+  margin-top: -15px;
+  
+}
+
+.blocoDir input, select {
+  border-radius: 5px;
+}
+
+.formCadastro {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.loginBtn {
+  background-color: #4267B2;
+  border-color: #1c1e21;
+  border-radius: 5%;
+  color: #e9ebee;
+  padding: 2px 5px;
+}
+
+.registerBtn {
+  background-color: #60A04E;
+}
+
+#flexContainer{
+display: block;
+}
+
+#facebook-networking{
+ display: flex;
+ width: 70%;
+ margin-left: 90px;
+ margin-right: auto;
+}
+
+.facebook-logo{
+ margin-left: -70px;
+ margin-right: 220px;
+ padding-right: 120px;
+ padding-left: -30px;
+}
+
+table input{
+ width: 91%;
+ padding-right: -15px;
+ margin-right: -125px;
+ 
+}
+
+table a{
+  text-decoration: none;
+}
+
+.nomeSobrenome{
+  display: flex;
+}
+
+.nomeSobrenome input{
+margin-bottom: 20px;
+margin-right: 15px;
+1px solid #ccd0d5;
+width: 50%;
+height: 60%;
+flex:1;
+}
+
+.divNascimento{
+  margin-top: 12px;
+  margin-bottom: 13px;
+}
+
+.divNascimento label {
+  color: rgb(138, 140, 143);
+  font-weight: bolder;
+}
+
+
+#termos{
+  color: rgb(138, 140, 143);
+  font-size: 12px;
+  text-align: left;
+}
+
+.registerBtn{
+border-radius: 8px;  
+width: 150px;
+height: 45px;
+margin-top: 10px;
+color: white;
+text-justify: auto;
+font-size: 18px;
+text-decoration: none;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color:rgb(153,153,153);
+  opacity: 1; /* Firefox */
+}
