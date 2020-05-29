@@ -1,0 +1,1 @@
+export const addAssignment = (value) => ({ type: 'COUNTER_ELEMENT', value });
