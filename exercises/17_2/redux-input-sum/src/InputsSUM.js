@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { sumInputs1, sumInputs2 , sumInputs3 } from './actions';
+import { sumInputs1, sumInputs2 , sumInputs3 } from './action';
 
 class InputsList extends React.Component {
   constructor(props) {
@@ -16,16 +16,18 @@ class InputsList extends React.Component {
   }
 
   event_one(event ) {
-   this.setState({ input_one : event.target.value })
+   this.setState({ input_one : event })
   }
 
-  event_two() {
-    this.setState({ input_two : event.target.value })
+  event_two(event) {
+    this.setState({ input_two : event })
+    console.log(this.state)
 
   }
   
-  event_three() {
-    this.setState({ input_three : event.target.value })
+  event_three(event) {
+    this.setState({ input_three : event  })
+    console.log(this.state)
   }
 
   render() {
@@ -34,17 +36,17 @@ class InputsList extends React.Component {
         <input
           type="text"
           placeholder="Digite o primeiro valor"
-          onChange={event => this.event_one({input_one: event.target.value })}
+          onChange={event => this.event_one( event.target.value )}
         />
         <input
           type="text"
           placeholder="Digite o seugndo valor"
-          onChange={event => this.event_two({input_one: event.target.value })}
+          onChange={event => this.event_two( event.target.value )}
         />
         <input
           type="text"
           placeholder="Digite o terceiro valor"
-          onChange={event => this.event_three({input_one: event.target.value })}
+          onChange={event => this.event_three( event.target.value )}
         />
       </div>
     );
@@ -52,9 +54,9 @@ class InputsList extends React.Component {
 }
 
 const mapDispatchToProps = dispatch => ({
-  value1: e => dispatch(addAssignment(e)),
-  value2: e => dispatch(addAssignment(e)),
-  value3: e => dispatch(addAssignment(e)),
+  value1: e => dispatch(sumInputs1(e)),
+  value2: e => dispatch(sumInputs2(e)),
+  value3: e => dispatch(sumInputs3(e)),
 });
 
 export default connect(null, mapDispatchToProps)(InputsList);
