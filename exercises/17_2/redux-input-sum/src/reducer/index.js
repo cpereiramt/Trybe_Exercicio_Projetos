@@ -6,21 +6,23 @@ const INITIAL_STATE = {
 }
 
 function inputSumReducer(state=INITIAL_STATE, action) {
-  console.log(action);
+  
   switch (action.type) {
       case 'INPUT_VALUE_SUM1':
-        console.log(state.input_sum)
-          return {
-            input_one: action.value          
-           
+          return  {...state,
+            input_one: action.value
           }
           case 'INPUT_VALUE_SUM2':
-            return {
+            return {...state,
               input_two: action.value
-            }    
+            }   
             case 'INPUT_VALUE_SUM3':
-              return {
+              return  {...state,
                 input_three: action.value
+              }
+              case 'SUM_ALL':
+              return  {...state,
+                input_sum: state.input_one + state.input_two + state.input_three
               }
       default:
           return state;
