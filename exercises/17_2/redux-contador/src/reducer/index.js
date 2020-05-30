@@ -1,11 +1,17 @@
-const INITIAL_STATE = [];
+const INITIAL_STATE = {
+  count : 0
+};
 
 function counterReducer(state = INITIAL_STATE, action) {
   switch (action.type) {
-    case 'COUNTER_ELEMENT':
-      return [...state, action.value];
+    case 'INCREASE_COUNT':
+      console.log('acessou aqui !')
+      return {count:  state.count + 1}
+      case 'DECREASE_COUNT':
+        console.log('acessou aqui !')
+        return {count:  state.count - 1}
     default:
-      return state;
+      return INITIAL_STATE;
   }
 }
 

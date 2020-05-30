@@ -1,11 +1,10 @@
 import { createStore, combineReducers } from 'redux';
-import counterReducer from '../reducer';
+import counterReducer from '../reducer/index';
 
-const rootReducer = combineReducers(counterReducer);
-const store = createStore(rootReducer);
+const rootReducer = combineReducers({counterReducer});
 
-export default store;
+const store = createStore(rootReducer, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()) 
 
-//A função createStore deve receber
-// como parâmetro um reducer. Portanto, 
-//vamos criar um no arquivo src/reducer/index.js:
+
+export default store; 
+
