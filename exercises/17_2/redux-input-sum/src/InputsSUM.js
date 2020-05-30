@@ -10,6 +10,22 @@ class InputsList extends React.Component {
         input_two: 0,
         input_three: 0,    
     };
+    this.event_one = this.event_one.bind(this);
+    this.event_two = this.event_two.bind(this);
+    this.event_three = this.event_three.bind(this);
+  }
+
+  event_one(event ) {
+   this.setState({ input_one : event.target.value })
+  }
+
+  event_two() {
+    this.setState({ input_two : event.target.value })
+
+  }
+  
+  event_three() {
+    this.setState({ input_three : event.target.value })
   }
 
   render() {
@@ -18,17 +34,17 @@ class InputsList extends React.Component {
         <input
           type="text"
           placeholder="Digite o primeiro valor"
-          onChange={event => this.setState({ input_one: event.target.value })}
+          onChange={event => this.event_one({input_one: event.target.value })}
         />
         <input
           type="text"
           placeholder="Digite o seugndo valor"
-          onChange={event => this.setState({ input_two: event.target.value })}
+          onChange={event => this.event_two({input_one: event.target.value })}
         />
         <input
           type="text"
           placeholder="Digite o terceiro valor"
-          onChange={event => this.setState({ input_three: event.target.value })}
+          onChange={event => this.event_three({input_one: event.target.value })}
         />
       </div>
     );
