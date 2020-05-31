@@ -54,7 +54,7 @@ class InputsList extends React.Component {
         />
         <br/>
         {this.props.values.input_sum}
-        {console.log(this.props.values.input_sum)}
+        {console.log(this.props.values.input_sum)} 
       </div>
     );
   }
