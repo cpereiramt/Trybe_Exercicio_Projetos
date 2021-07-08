@@ -1,0 +1,21 @@
+    1  whois amazon.com
+    2  whois amazon.com.br
+    3  whois amazon.co.uk
+    4  curl -d "firstname=Clayton" -X GET https://httpbin.org/anything
+    5  curl -d "lastname=pereira" -X POST  https://httpbin.org/anything
+    6  curl -d '{"escola": "Trybe"}' -H "Content-Type: application/json" -X POST
+    7  curl -d '{"escola": "Trybe"}' -H "Content-Type: application/json" -X POST https://httpbin.org/anything
+    8  curl -d "firstname=pedro&lastname=vieira" -X PUT  https://httpbin.org/anything
+    9  curl -d  -X DELETE  https://httpbin.org/anything/pedro
+   10  curl  -X DELETE  https://httpbin.org/anything/pedro
+   11  ifconfig
+   12  nmap 10.0.0.255
+   13  nmap 10.0.0.104
+   14  nmap -sT localhost
+   15  nmap -sU localhost
+   16  sudo nmap -sU localhost
+   17  nmap -O localhost
+   18  sudo nmap -O localhost
+   19  history || comandos.txt
+   20  history | comandos.txt
+   21  history >>  comandos.txt
